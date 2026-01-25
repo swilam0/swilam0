@@ -21,15 +21,13 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 ### 🔧 Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
 
 💡 **Skills:** REST APIs, Authentication, Authorization, JWT, OAuth2, Sessions, Cookies, Clean Architecture, MVC, API Security, Performance Optimization, Deployment
 
 ### 🧩 Full-Stack / Frontend
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
@@ -38,6 +36,10 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 ### 🗄️ Database
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSql](https://img.shields.io/badge/postgresql-2479A2?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
+[![Prisma](https://img.shields.io/badge/prisma-17a395?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 💡 **Skills:** Schema Design, Indexing, Aggregations, SQL & NoSQL Architecture, Secure File Handling
 
