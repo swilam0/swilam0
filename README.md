@@ -28,7 +28,6 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
 [![Prisma](https://img.shields.io/badge/prisma-17a395?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-
 💡 **Skills:** REST APIs, Authentication, Authorization, JWT, OAuth2, Sessions, Cookies, Clean Architecture, MVC, API Security, Performance Optimization, Deployment, Schema Design, Indexing, Aggregations, SQL & NoSQL Architecture, Secure File Handling
 
 ### 🧩 Frontend
@@ -36,7 +35,6 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Shadcn UI](https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-
 💡 **Skills:** App Router, React Server Components, Server Actions, API Routes, SEO Optimization, Rendering Strategies
 
 
@@ -48,7 +46,6 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![Wireshark](https://img.shields.io/badge/Wireshark-005C9C?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Gobuster](https://img.shields.io/badge/Gobuster-008000?style=for-the-badge&logo=golang&logoColor=white)](https://github.com/OJ/gobuster)
 [![Sublist3r](https://img.shields.io/badge/Sublist3r-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aboul3la/Sublist3r)
-
 💡 **Skills:** Web Security, Authentication & API Security, Reconnaissance, Bug Bounty, POCs, OWASP Top 10, Vulnerability Validation & Report Writing, CTF Skills (Web, OSINT, Network, Forensics)
 
 ### 🧰 Tools
