@@ -29,7 +29,7 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
 [![Prisma](https://img.shields.io/badge/prisma-17a395?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 💡 **Skills:** REST APIs, Authentication, Authorization, JWT, OAuth2, Sessions, Cookies, Clean Architecture, MVC, API Security, Performance Optimization, Deployment, Schema Design, Indexing, Aggregations, SQL & NoSQL Architecture, Secure File Handling
-
+##
 ### 🧩 Frontend
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
