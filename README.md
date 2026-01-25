@@ -36,8 +36,7 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Shadcn UI](https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 💡 **Skills:** App Router, React Server Components, Server Actions, API Routes, SEO Optimization, Rendering Strategies
-
-
+##
 ### 🛡️ Cybersecurity
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F24D27?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![Nmap](https://img.shields.io/badge/Nmap-66CCFF?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
@@ -47,7 +46,7 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![Gobuster](https://img.shields.io/badge/Gobuster-008000?style=for-the-badge&logo=golang&logoColor=white)](https://github.com/OJ/gobuster)
 [![Sublist3r](https://img.shields.io/badge/Sublist3r-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aboul3la/Sublist3r)
 💡 **Skills:** Web Security, Authentication & API Security, Reconnaissance, Bug Bounty, POCs, OWASP Top 10, Vulnerability Validation & Report Writing, CTF Skills (Web, OSINT, Network, Forensics)
-
+##
 ### 🧰 Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -58,7 +57,7 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)](https://clickup.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-
+##
 ### 🧪 Scripting & Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
