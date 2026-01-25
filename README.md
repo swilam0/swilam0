@@ -35,6 +35,7 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Shadcn UI](https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Framer](https://img.shields.io/badge/framer-fff52a?style=for-the-badge&logo=framer&logoColor=black)](https://www.framer.com/)
 💡 **Skills:** App Router, React Server Components, Server Actions, API Routes, SEO Optimization, Rendering Strategies
 ##
 ### 🛡️ Cybersecurity
