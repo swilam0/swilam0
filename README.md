@@ -2,22 +2,24 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamad Swilam</h1>
 <h3 align="center">Full-Stack Engineer  | Cybersecurity Researcher | CTF Creator</h3>
 <p align="center">
-  <a href="mailto:swilam.per@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="30"/>
+  <a href="mailto:swilam.per@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/mohamed-swilam">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  <a href="https://github.com/mohamed-swilam" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/github/white" width="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/swilam-dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  <a href="https://www.linkedin.com/in/swilam-dev" style="text-decoration:none;">
+  <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="28"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" />
+  <a href="https://facebook.com/YOUR_FACEBOOK" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" />
   </a>
 </p>
+
+
 
 ---
 
