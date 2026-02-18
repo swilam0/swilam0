@@ -102,7 +102,7 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 - **Technology:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication, React, NextJS, HTML5, CSS3, Tailwind, JavaScript.  
 - **Repo:**
 
-<a href="https://github.com/DeverCrowd/UpdatedDeverCrowd"><img width="50%" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeverCrowd&repo=DeverCrowd-Portfolio&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false" alt="SecureMail"></a>
+<a href="https://github.com/DeverCrowd/UpdatedDeverCrowd"><img width="100%" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeverCrowd&repo=DeverCrowd-Portfolio&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false" alt="SecureMail"></a>
  
 ### 🚀 **SecureMail**
 - **Overview:** Developed a secure email client that integrates cybersecurity scanning to detect threats and protect emails in real-time, with an admin dashboard for monitoring and management.  
@@ -110,7 +110,7 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 - **Technology:** Node.js, Nest.js, MySQL, REST APIs, JWT, Gmail API, Outlook API, IMAP/SMTP, ChatGPT API, VirusTotal API, React, Next.js, Tailwind CSS, JavaScript.  
 - **Repo:**
 
-<a href="https://github.com/The-Team-Dream/SecureMail"><img width="50%" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false" alt="SecureMail"></a>
+<a href="https://github.com/The-Team-Dream/SecureMail"><img width="100%" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false" alt="SecureMail"></a>
 ---
 
 ## 🏆 Cybersecurity Achievements
