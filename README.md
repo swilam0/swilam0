@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamad Swilam</h1>
 <h3 align="center">Full-Stack Engineer  | Cybersecurity Researcher | CTF Creator</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swilam.per@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-+20%20103%200141149-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+201030141149)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-swilam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swilam-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swilam.per@gmail.com)[![Phone](https://img.shields.io/badge/Phone-+20%20103%200141149-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+201030141149)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-swilam)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swilam-dev)
 ---
 
 ## 👨‍💻 About Me
