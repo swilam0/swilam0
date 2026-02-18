@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./readme-photo.png" alt="Hero Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohamed Hamad Swilam</h1>
 <h3 align="center">Full-Stack Engineer  | Cybersecurity Researcher | CTF Creator</h3>
 <p align="center">
