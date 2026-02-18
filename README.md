@@ -1,8 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Hamad Swilam</h1>
 <h3 align="center">Full-Stack Engineer  | Cybersecurity Researcher | CTF Creator</h3>
+<p align="center">
+  <a href="mailto:swilam.per@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mohamed-swilam">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swilam-dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/YOUR_FACEBOOK">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" />
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swilam.per@gmail.com)[![Phone](https://img.shields.io/badge/Phone-+20%20103%200141149-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+201030141149)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-swilam)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swilam-dev)
 ---
 
 ## 👨‍💻 About Me
@@ -118,20 +134,12 @@ Skilled in building secure, scalable systems and discovering vulnerabilities in 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-swilam&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-swilam&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=mohamed-swilam&layout=compact&theme=tokyonight&langs_count=5" />
+
 </p>
 
 
 ---
 
-## 📫 Contact
-- **Email:** swilam.per@gmail.com  
-- **GitHub:** github.com/mohamed-swilam
-
----
 
 > ⚡ *From secure systems to exploited systems — I build it, break it, and secure it again.*
