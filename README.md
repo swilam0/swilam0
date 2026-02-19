@@ -34,12 +34,12 @@ Strong expertise in RESTful API design, authentication & authorization, database
 Experienced in penetration testing, vulnerability discovery, and developing production-ready backend systems.  
 Familiar with frontend technologies for seamless collaboration when needed.
 
-- 🛡️ Junior Pentester with **30+ discovered vulnerabilities**  
 - 🧠 Backend & Full-Stack Developer specializing in **Node.js(NestJs, ExpressJs), and React(Next.js)**  
-- 🚀 Co-founder of **DeverCrowd**  
 - 🔐 Strong background in API Security, web exploitation, and secure development practices  
+- 🛡️ Junior Pentester with **30+ discovered vulnerabilities**  
 - 🏆 CTF Player & Challenge Creator (Farm CTF)  
 - 🖥️ ECPC problem-solving background  
+- 🚀 Co-founder of **DeverCrowd**  
 
 ---
 
