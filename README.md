@@ -2,7 +2,7 @@
   <img src="./redme33.png" alt="Hero Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohamed Hamad Swilam</h1>
-<h3 align="center">Backend Engineer | Security-Focused Developer</h3>
+<h3 align="center">Node.js Backend Engineer | Security-Focused Developer</h3>
 <p align="center">
   <a href="mailto:swilam.per@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
