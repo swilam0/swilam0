@@ -25,9 +25,6 @@
   </a>
 </p>
 
-[![Backend](https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Security](https://img.shields.io/badge/Security-F24D27?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
-
 
 ---
 
@@ -110,7 +107,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
   - **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.  
   - **Technology:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication, React, NextJS, HTML5, CSS3, Tailwind, JavaScript.
 ##
-<a href="https://github.com/The-Team-Dream/SecureMail"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
+<a href="https://github.com/The-Team-Dream/SecureMail"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail-Backend&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
 
 - **Overview:** Developed a secure email client that integrates cybersecurity scanning to detect threats and protect emails in real-time, with an admin dashboard for monitoring and management.  
 - **Key Features:** Secure login, email sending/receiving, phishing and spam detection, malicious link and attachment scanning, AI email analysis, threat reports, and dashboard analytics.  
