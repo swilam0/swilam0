@@ -45,31 +45,57 @@ Familiar with frontend technologies for seamless collaboration when needed.
 
 ## 🛠️ Tech Stack
 
-### 🔧 Backend & Database
+### 🔧 Backend & Development
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSql](https://img.shields.io/badge/postgresql-2479A2?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.com/)
-[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
-[![Prisma](https://img.shields.io/badge/prisma-17a395?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![REST API](https://img.shields.io/badge/RESTful_API-007ACC?style=for-the-badge)]()
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)]()
 [![OAuth2](https://img.shields.io/badge/OAuth2-0a0a0a?style=for-the-badge&logo=oauth&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)]()
 
-💡 **Skills:** REST APIs, Authentication, Authorization, JWT, OAuth2, Sessions, Cookies, Clean Architecture, MVC, API Security, Performance Optimization, Deployment, Schema Design, Indexing, Aggregations, SQL & NoSQL Architecture, Secure File Handling
-##
-### 🧩 Frontend
+### 🗄️ Databases & ORM
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2479A2?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-17a395?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
+
+### ☁️ Cloud & Integration
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-072A4E?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-FF3A6E?style=for-the-badge)](https://nodemailer.com/)
+
+### 🛠️ DevOps & Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+### 🛡️ Security & Other
+[![RBAC](https://img.shields.io/badge/RBAC-0a0a0a?style=for-the-badge)]()
+[![PenTesting](https://img.shields.io/badge/PenTesting-F24D27?style=for-the-badge)]()
+[![API Security](https://img.shields.io/badge/API_Security-4285F4?style=for-the-badge)]()
+[![Caching](https://img.shields.io/badge/Caching-DC382D?style=for-the-badge)]()
+[![Network](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)]()
+
+### 🧩 Frontend Development
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![App Router](https://img.shields.io/badge/App_Router-007ACC?style=for-the-badge)]()
+[![React Server Components](https://img.shields.io/badge/Server_Components-61DAFB?style=for-the-badge)]()
+[![Server Actions](https://img.shields.io/badge/Server_Actions-007ACC?style=for-the-badge)]()
+[![API Routes](https://img.shields.io/badge/API_Routes-FF6C37?style=for-the-badge)]()
+[![SEO Optimization](https://img.shields.io/badge/SEO_Optimization-4285F4?style=for-the-badge)]()
+[![Rendering Strategies](https://img.shields.io/badge/Rendering_Strategies-F24D27?style=for-the-badge)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Shadcn UI](https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Framer](https://img.shields.io/badge/framer-fff52a?style=for-the-badge&logo=framer&logoColor=black)](https://www.framer.com/)
+[![Shadcn UI](https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge)](https://ui.shadcn.com/)
+[![Framer](https://img.shields.io/badge/Framer-fff52a?style=for-the-badge)](https://www.framer.com/)
 
-💡 **Skills:** App Router, React Server Components, Server Actions, API Routes, SEO Optimization, Rendering Strategies
 ##
 ### 🛡️ Cybersecurity
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F24D27?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
@@ -79,8 +105,18 @@ Familiar with frontend technologies for seamless collaboration when needed.
 [![Wireshark](https://img.shields.io/badge/Wireshark-005C9C?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Gobuster](https://img.shields.io/badge/Gobuster-008000?style=for-the-badge&logo=golang&logoColor=white)](https://github.com/OJ/gobuster)
 [![Sublist3r](https://img.shields.io/badge/Sublist3r-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aboul3la/Sublist3r)
-
-💡 **Skills:** Web Security, Authentication & API Security, Reconnaissance, Bug Bounty, POCs, OWASP Top 10, Vulnerability Validation & Report Writing, CTF Skills (Web, OSINT, Network, Forensics)
+[![Web Security](https://img.shields.io/badge/Web_Security-F24D27?style=for-the-badge)]()
+[![Authentication & API Security](https://img.shields.io/badge/Auth_&_API_Security-4285F4?style=for-the-badge)]()
+[![Reconnaissance](https://img.shields.io/badge/Reconnaissance-007ACC?style=for-the-badge)]()
+[![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-F85D7F?style=for-the-badge)]()
+[![POCs](https://img.shields.io/badge/POCs-FF6C37?style=for-the-badge)]()
+[![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-DC382D?style=for-the-badge)]()
+[![Vulnerability Validation](https://img.shields.io/badge/Vuln_Validation-FF0000?style=for-the-badge)]()
+[![Report Writing](https://img.shields.io/badge/Report_Writing-FFC107?style=for-the-badge)]()
+[![CTF Skills](https://img.shields.io/badge/CTF_Skills-61DAFB?style=for-the-badge)]()
+[![OSINT](https://img.shields.io/badge/OSINT-4285F4?style=for-the-badge)]()
+[![Network](https://img.shields.io/badge/Network-007ACC?style=for-the-badge)]()
+[![Forensics](https://img.shields.io/badge/Forensics-F24D27?style=for-the-badge)]()
 ##
 ### 🧰 Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
