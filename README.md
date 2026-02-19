@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 Backend-focused engineer specializing in building secure, scalable, and high-performance server-side systems.  
 Strong expertise in RESTful API design, authentication & authorization, database architecture, and security best practices.  
 Experienced in penetration testing, vulnerability discovery, and developing production-ready backend systems.  
@@ -43,11 +43,9 @@ Familiar with frontend technologies for seamless collaboration when needed.
 
 ---
 
-## 🛠️ Tech Stack
-
 # 🛠️ Tech Stack
 
-## 🔧 Backend & Development
+### 🔧 Backend & Development
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -75,7 +73,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 [![Caching](https://img.shields.io/badge/Caching-DC382D?style=for-the-badge)]()
 [![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)]()
 
-## 🧩 Frontend Development
+### 🧩 Frontend Development
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![App Router](https://img.shields.io/badge/App_Router-007ACC?style=for-the-badge)]()
@@ -88,7 +86,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 [![Shadcn UI](https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge)](https://ui.shadcn.com/)
 [![Framer](https://img.shields.io/badge/Framer-fff52a?style=for-the-badge)](https://www.framer.com/)
 
-## 🛡️ Cybersecurity
+### 🛡️ Cybersecurity
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F24D27?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![Nmap](https://img.shields.io/badge/Nmap-66CCFF?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Nikto](https://img.shields.io/badge/Nikto-FF6600?style=for-the-badge&logo=nikto&logoColor=white)](https://cirt.net/Nikto2)
@@ -109,7 +107,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 [![Forensics](https://img.shields.io/badge/Forensics-F24D27?style=for-the-badge)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-## 🧰 Tools
+### 🧰 Tools
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -118,7 +116,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 [![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)](https://clickup.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
-## 🧪 Scripting & Languages
+### 🧪 Scripting & Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -131,7 +129,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 
 ---
 
-## 🏗️ Projects
+# 🏗️ Projects
 <a href="https://github.com/DeverCrowd/UpdatedDeverCrowd"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeverCrowd&repo=DeverCrowd-Portfolio&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
   - **Overview:** Developed a startup portfolio web application to showcase the company’s vision, services, and projects, providing a professional online presence with a fully controlled admin dashboard.  
   - **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.  
@@ -145,7 +143,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 
 ---
 
-## 🏆 Cybersecurity Achievements
+# 🏆 Cybersecurity Achievements
 - Listed in **Bug Bounty Hall of Fames** *(ClassDojo, Daimler Truck, ION Group, etc.)*  
 - 30+ vulnerabilities reported with high-quality POCs  
 - Designed and hosted CTF challenges  
@@ -153,7 +151,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 
 ---
 
-## 🎓 Education & Certifications
+# 🎓 Education & Certifications
 - **B.Sc. Computer Science (2022–2026)**  
 - **CompTIA**  
   - Linux+  
@@ -167,7 +165,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 ---
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
 <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamed-swilam&bg_color=1F222E&color=70A5FD&line=F85D7F&point=FFFFFF&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=mohamed-swilam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
