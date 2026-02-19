@@ -50,7 +50,7 @@ Familiar with frontend technologies for seamless collaboration when needed.
 
 # 🛠️ Tech Stack
 
-### 🔧 Backend & Development
+### 🔧 Backend Development
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
