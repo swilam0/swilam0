@@ -25,7 +25,7 @@
   </a>
   <br/>
   <br/>
-<a href="https://drive.google.com/file/d/1f-DqKiyKTZKc4ngxtzkav_afGDpW4nuv/view" target="_blank" download>
+<a href="https://drive.google.com/file/d/11jTcN0nKPQuAgE-KFULZNGhoMguq5-UI/view" target="_blank" download>
     Download My CV
 </a>
 </p>
