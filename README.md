@@ -53,36 +53,29 @@ Familiar with frontend technologies for seamless collaboration when needed.
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)]()
 [![OAuth2](https://img.shields.io/badge/OAuth2-0a0a0a?style=for-the-badge&logo=oauth&logoColor=white)]()
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)]()
-
-### 🗄️ Databases & ORM
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2479A2?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-17a395?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
-
-### ☁️ Cloud & Integration
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-072A4E?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-FF3A6E?style=for-the-badge)](https://nodemailer.com/)
-
-### 🛠️ DevOps & Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
-### 🛡️ Security & Other
 [![RBAC](https://img.shields.io/badge/RBAC-0a0a0a?style=for-the-badge)]()
 [![PenTesting](https://img.shields.io/badge/PenTesting-F24D27?style=for-the-badge)]()
 [![API Security](https://img.shields.io/badge/API_Security-4285F4?style=for-the-badge)]()
 [![Caching](https://img.shields.io/badge/Caching-DC382D?style=for-the-badge)]()
 [![Network](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)]()
 
+##
 ### 🧩 Frontend Development
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
