@@ -23,17 +23,11 @@
   <a href="https://api.whatsapp.com/send?phone=201030141149" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/whatsapp/gree" width="28" />
   </a>
-</p>
-<a  align="center" href="YourCV.pdf" download style="
-    background-color:#007ACC;
-    color:white;
-    padding:10px 20px;
-    text-decoration:none;
-    border-radius:5px;
-    font-weight:bold;
-">
+  <br/>
+<a href="YourCV.pdf" download ">
     Download My CV
 </a>
+</p>
 
 
 ---
