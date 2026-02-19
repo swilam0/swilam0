@@ -24,7 +24,8 @@
     <img src="https://cdn.simpleicons.org/whatsapp/gree" width="28" />
   </a>
   <br/>
-<a href="https://github.com/mohamed-swilam/mohamed-swilam/raw/main/mohamed.hamad_Backend.pdf" download ">
+  <br/>
+<a href="https://drive.google.com/file/d/15Wuyn7YrnwOeYC7DPE7bJQJ40l2misE_/view" download ">
     Download My CV
 </a>
 </p>
