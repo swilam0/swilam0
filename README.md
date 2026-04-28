@@ -2,7 +2,7 @@
   <img src="./redme33.png" alt="Hero Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohamed Hamad Swilam</h1>
-<h3 align="center">Node.js Backend Engineer | Security-Focused Developer</h3>
+<h3 align="center">Full Stack Engineer | Security-Focused Developer</h3>
 <p align="center">
   <a href="mailto:swilam.per@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
@@ -35,12 +35,15 @@
 ---
 
 # 👨‍💻 About Me
-Backend-focused engineer specializing in building secure, scalable, and high-performance server-side systems.  
-Strong expertise in RESTful API design, authentication & authorization, database architecture, and security best practices.  
-Experienced in penetration testing, vulnerability discovery, and developing production-ready backend systems.  
-Familiar with frontend technologies for seamless collaboration when needed.
+Full Stack engineer specializing in building secure, scalable, and high-performance web applications end-to-end.  
+Experienced in designing both backend architectures and frontend experiences, with a strong focus on performance, clean code, and seamless system integration.  
 
-- 🧠 Backend & Full-Stack Developer specializing in **Node.js(NestJs, ExpressJs), and React(Next.js)**  
+Skilled in building RESTful APIs, authentication & authorization systems, database design, and modern frontend interfaces using React and Next.js.  
+Strong background in penetration testing, vulnerability discovery, and applying security best practices across the entire application stack.  
+
+Passionate about developing production-ready applications that balance user experience, system performance, and security.
+
+- 🧠 Full Stack Engineer specializing in **Node.js (NestJS, ExpressJS) & React (Next.js)**
 - 🔐 Strong background in API Security, web exploitation, and secure development practices  
 - 🛡️ Junior Pentester with **30+ discovered vulnerabilities**  
 - 🏆 CTF Player & Challenge Creator (Farm CTF)  
@@ -138,13 +141,13 @@ Familiar with frontend technologies for seamless collaboration when needed.
 # 🏗️ Projects
 <a href="https://github.com/The-Team-Dream/SecureMail-Backend"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail-Backend&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
 
-- **Overview:** Developed a secure email client that integrates cybersecurity scanning to detect threats and protect emails in real-time, with an admin dashboard for monitoring and management.  
+- **Overview:** Designed and developed a full-stack secure email platform, including backend services and interactive frontend dashboard, with integrated cybersecurity scanning to detect and prevent threats in real-time.
 - **Key Features:** Secure login, email sending/receiving, phishing and spam detection, malicious link and attachment scanning, AI email analysis, threat reports, and dashboard analytics.  
 - **Technology:** Node.js, Nest.js, MySQL, REST APIs, JWT, Gmail API, Outlook API, IMAP/SMTP, ChatGPT API, VirusTotal API, React, Next.js, Tailwind CSS, JavaScript.  
 ##
 <a href="https://github.com/mohamed-swilam/DeverCrowd-Portfolio"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamed-swilam&repo=DeverCrowd-Portfolio&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
-  - **Overview:** Developed a startup portfolio web application to showcase the company’s vision, services, and projects, providing a professional online presence with a fully controlled admin dashboard.  
-  - **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.  
+- **Overview:** Built a full-stack portfolio web application, including backend APIs and responsive frontend interface, with a dynamic admin dashboard for complete content control and management.
+- **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.  
   - **Technology:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication, React, NextJS, HTML5, CSS3, Tailwind, JavaScript.
 
 ---
@@ -182,4 +185,4 @@ Familiar with frontend technologies for seamless collaboration when needed.
 ---
 
 
-> ⚡ *From secure systems to exploited systems — I build it, break it, and secure it again.*
+> ⚡ *I build, break, and secure systems across the full stack.*
