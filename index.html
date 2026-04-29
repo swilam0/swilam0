@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Hamad Swilam — Full-Stack Engineer & Security Researcher</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Space+Grotesk:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- ===== BOOT SEQUENCE ===== -->
+    <div id="boot-sequence">
+        <div class="boot-lines">
+            <p class="boot-line" data-delay="0">&gt; INITIALIZING SECURE CONNECTION...</p>
+            <p class="boot-line" data-delay="400">&gt; LOADING PROTOCOLS.............. <span class="boot-ok">[OK]</span></p>
+            <p class="boot-line" data-delay="800">&gt; ESTABLISHING ENCRYPTION........ <span class="boot-ok">[OK]</span></p>
+            <p class="boot-line" data-delay="1200">&gt; SCANNING FOR THREATS........... <span class="boot-clear">[CLEAR]</span></p>
+            <p class="boot-line" data-delay="1700">&gt; ACCESS GRANTED</p>
+        </div>
+    </div>
+
+    <!-- ===== CUSTOM CURSOR ===== -->
+    <div id="cursor-dot"></div>
+    <div id="cursor-ring"></div>
+
+    <!-- ===== NAVIGATION ===== -->
+    <nav id="main-nav">
+        <a href="#hero" class="nav-logo">MHS<span class="logo-blink">_</span></a>
+        <ul class="nav-links">
+            <li><a href="#hero">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#courses">Courses</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <button class="nav-toggle" aria-label="Toggle navigation">
+            <span></span><span></span><span></span>
+        </button>
+    </nav>
+
+    <!-- ===== HERO ===== -->
+    <section id="hero">
+        <canvas id="hero-canvas"></canvas>
+        <div class="hero-content">
+            <div class="hero-badge">[ SECURE CONNECTION ESTABLISHED ]</div>
+            <h1 class="glitch" data-text="Mohamed Hamad Swilam">Mohamed Hamad Swilam</h1>
+            <div class="hero-titles">
+                <span class="title-item">Full-Stack Engineer</span>
+                <span class="title-sep">|</span>
+                <span class="title-item">Security Researcher</span>
+            </div>
+            <div class="hero-buttons">
+                <a href="#projects" class="btn btn-primary"><i class="fas fa-shield-halved"></i> View Work</a>
+                <a href="https://drive.google.com/file/d/1juOLdy9v51xvwnVl_dFXJ8Fx5WQ88QW0/view" target="_blank" rel="noopener" class="btn btn-outline"><i class="fas fa-download"></i> Download CV</a>
+            </div>
+            <div class="hero-status">
+                <span><i class="fas fa-lock"></i> FIREWALL: ACTIVE</span>
+                <span><i class="fas fa-key"></i> ENCRYPTION: AES-256</span>
+                <span><i class="fas fa-eye"></i> THREAT LEVEL: LOW</span>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>SCROLL</span>
+            <div class="scroll-line"></div>
+        </div>
+    </section>
+
+    <!-- ===== ABOUT ===== -->
+    <section id="about" class="section">
+        <div class="section-header">
+            <span class="section-num">01</span>
+            <div class="section-line"></div>
+            <h2 class="section-title">ABOUT_ME</h2>
+        </div>
+        <div class="about-grid">
+            <div class="terminal-window">
+                <div class="terminal-topbar">
+                    <span class="dot red"></span>
+                    <span class="dot yellow"></span>
+                    <span class="dot green"></span>
+                    <span class="terminal-filename">about_swilam.sh</span>
+                </div>
+                <div class="terminal-body">
+                    <p class="term-prompt">$ cat about.txt</p>
+                    <p class="term-text">Full-Stack Developer with a strong backend foundation and a security-first mindset, building end-to-end web applications using Next.js and Node.js (NestJS / Express). Specialized in designing scalable REST APIs, secure authentication systems, and optimized database architectures across SQL and NoSQL. Brings the same engineering rigor to the frontend, crafting performant interfaces with React.js and Next.js. Background in penetration testing, bug bounty hunting, and CTF competitions — applying real-world offensive security knowledge to build systems that are hard to break. Competitive programming background (ECPC) with sharp problem-solving instincts applied across the full stack.</p>
+                    <p class="term-prompt term-done">$ <span class="cursor-blink">_</span></p>
+                </div>
+            </div>
+            <div class="about-decor">
+                <div class="decor-card">
+                    <div class="decor-icon"><i class="fas fa-server"></i></div>
+                    <span class="decor-label">Backend First</span>
+                </div>
+                <div class="decor-card">
+                    <div class="decor-icon"><i class="fas fa-shield-halved"></i></div>
+                    <span class="decor-label">Security Mindset</span>
+                </div>
+                <div class="decor-card">
+                    <div class="decor-icon"><i class="fas fa-trophy"></i></div>
+                    <span class="decor-label">ECPC Competitor</span>
+                </div>
+                <div class="decor-card">
+                    <div class="decor-icon"><i class="fas fa-bug"></i></div>
+                    <span class="decor-label">Bug Bounty Hunter</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== EXPERIENCE ===== -->
+    <section id="experience" class="section">
+        <div class="section-header">
+            <span class="section-num">02</span>
+            <div class="section-line"></div>
+            <h2 class="section-title">EXPERIENCE</h2>
+        </div>
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-card">
+                    <div class="timeline-date">Mar 2025 — Present</div>
+                    <h3 class="timeline-role">Full-Stack Developer</h3>
+                    <span class="timeline-company">@ DeverCrowd</span>
+                    <ul class="timeline-desc">
+                        <li>Designed scalable apps using Node.js, Express.js, React.js, Next.js.</li>
+                        <li>Developed REST APIs handling +1000 requests/day with 40% improved response time.</li>
+                        <li>Applied security best practices throughout the lifecycle.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== PROJECTS ===== -->
+    <section id="projects" class="section">
+        <div class="section-header">
+            <span class="section-num">03</span>
+            <div class="section-line"></div>
+            <h2 class="section-title">FLAGSHIP_PROJECTS</h2>
+        </div>
+        <div class="projects-grid">
+            <!-- SecureMail -->
+            <div class="project-card" data-accent="cyan">
+                <div class="project-corner tl"></div>
+                <div class="project-corner tr"></div>
+                <div class="project-corner bl"></div>
+                <div class="project-corner br"></div>
+                <div class="project-header">
+                    <div class="project-icon"><i class="fas fa-envelope-open-text"></i></div>
+                    <div class="project-links">
+                        <a href="https://github.com/mohamed-swilam" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+                <h3 class="project-name">SecureMail</h3>
+                <p class="project-desc">AI-powered security pipeline connecting Gmail/Outlook/IMAP. Classifies phishing, spam, malware.</p>
+                <div class="project-features">
+                    <span class="feat-tag"><i class="fas fa-check"></i> Multi-provider OAuth</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> AI threat detection (87 endpoints, 10+ patterns)</span>
+                </div>
+                <div class="project-stack">
+                    <span>Node.js</span><span>NestJS</span><span>PostgreSQL</span><span>Prisma</span><span>REST</span><span>JWT</span><span>IMAP/SMTP</span><span>ChatGPT API</span><span>React</span><span>Next.js</span><span>Tailwind</span>
+                </div>
+            </div>
+            <!-- MowaChat -->
+            <div class="project-card" data-accent="magenta">
+                <div class="project-corner tl"></div>
+                <div class="project-corner tr"></div>
+                <div class="project-corner bl"></div>
+                <div class="project-corner br"></div>
+                <div class="project-header">
+                    <div class="project-icon"><i class="fas fa-comments"></i></div>
+                    <div class="project-links">
+                        <a href="https://github.com/mohamed-swilam" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+                <h3 class="project-name">MowaChat</h3>
+                <p class="project-desc">Real-time chat with Stories, Groups, and media engine.</p>
+                <div class="project-features">
+                    <span class="feat-tag"><i class="fas fa-check"></i> Socket.io real-time events</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> 24h story expiry</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> Notifications</span>
+                </div>
+                <div class="project-stack">
+                    <span>Node.js</span><span>Express</span><span>Socket.io</span><span>MongoDB</span><span>Redis</span><span>Cloudinary</span><span>JWT</span><span>Next.js</span><span>React Query</span><span>Tailwind</span><span>TypeScript</span>
+                </div>
+            </div>
+            <!-- DeverCrowd -->
+            <div class="project-card" data-accent="green">
+                <div class="project-corner tl"></div>
+                <div class="project-corner tr"></div>
+                <div class="project-corner bl"></div>
+                <div class="project-corner br"></div>
+                <div class="project-header">
+                    <div class="project-icon"><i class="fas fa-rocket"></i></div>
+                    <div class="project-links">
+                        <a href="#" title="Live"><i class="fas fa-external-link-alt"></i></a>
+                        <a href="https://github.com/mohamed-swilam" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+                <h3 class="project-name">DeverCrowd Web App</h3>
+                <p class="project-desc">Startup portfolio with admin dashboard.</p>
+                <div class="project-features">
+                    <span class="feat-tag"><i class="fas fa-check"></i> Admin Auth</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> Role-based access control</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> CMS for services/blog/plans</span>
+                </div>
+                <div class="project-stack">
+                    <span>Node.js</span><span>Express</span><span>MongoDB</span><span>Mongoose</span><span>REST</span><span>JWT</span><span>React</span><span>Next.js</span><span>Tailwind</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== SKILLS ===== -->
+    <section id="skills" class="section">
+        <div class="section-header">
+            <span class="section-num">04</span>
+            <div class="section-line"></div>
+            <h2 class="section-title">TECH_SKILLS</h2>
+        </div>
+        <div class="skills-grid">
+            <div class="skill-module" data-color="cyan">
+                <div class="module-header">
+                    <i class="fas fa-server"></i>
+                    <h3>Backend</h3>
+                </div>
+                <div class="module-tags">
+                    <span>Node.js</span><span>Express.js</span><span>Nest.js</span><span>PostgreSQL</span><span>Prisma</span><span>MongoDB</span><span>Mongoose</span><span>MySQL</span><span>TypeORM</span><span>Redis</span><span>Socket.IO</span>
+                </div>
+            </div>
+            <div class="skill-module" data-color="magenta">
+                <div class="module-header">
+                    <i class="fas fa-palette"></i>
+                    <h3>Frontend</h3>
+                </div>
+                <div class="module-tags">
+                    <span>React.js</span><span>Next.js</span><span>JavaScript (ES6+)</span><span>HTML &amp; CSS</span><span>Tailwind CSS</span><span>TypeScript</span>
+                </div>
+            </div>
+            <div class="skill-module" data-color="green">
+                <div class="module-header">
+                    <i class="fas fa-shield-halved"></i>
+                    <h3>Cyber Security</h3>
+                </div>
+                <div class="module-tags">
+                    <span>CTF (Web, OSINT, Forensics, Network)</span><span>Web &amp; Network Penetration Testing</span><span>Bug Bounty Hunting</span><span>OWASP Top 10</span><span>Burp Suite</span><span>Wireshark</span><span>Metasploit Basics</span>
+                </div>
+            </div>
+            <div class="skill-module" data-color="yellow">
+                <div class="module-header">
+                    <i class="fas fa-cloud"></i>
+                    <h3>Cloud &amp; DevOps</h3>
+                </div>
+                <div class="module-tags">
+                    <span>Docker</span><span>Cloudinary</span><span>CI/CD Pipelines</span><span>Linux Advanced Commands</span><span>Postman</span><span>Git &amp; GitHub</span>
+                </div>
+            </div>
+            <div class="skill-module" data-color="purple">
+                <div class="module-header">
+                    <i class="fas fa-users"></i>
+                    <h3>Soft Skills</h3>
+                </div>
+                <div class="module-tags">
+                    <span>ECPC Participant</span><span>Team Collaboration/Leading</span><span>Agile/Scrum Basics</span><span>Time Management</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== EDUCATION ===== -->
+    <section id="education" class="section">
+        <div class="section-header">
+            <span class="section-num">05</span>
+            <div class="section-line"></div>
+            <h2 class="section-title">EDUCATION</h2>
+        </div>
+        <div class="edu-grid">
+            <div class="edu-degree">
+                <div class="edu-icon"><i class="fas fa-graduation-cap"></i></div>
+                <h3>B.Sc. in Computer Science</h3>
+                <p class="edu-school">Obour High Institute</p>
+                <p class="edu-date">Aug 2022 — Aug 2026</p>
+            </div>
+            <div class="edu-certs">
+                <h4 class="edu-subtitle"><i class="fas fa-certificate"></i> Certifications &amp; Achievements</h4>
+                <ul class="cert-list">
+                    <li><span class="cert-bullet">◆</span> ECPC Qualifications — AAST Alexandria</li>
+                    <li><span class="cert-bullet">◆</span> 3rd Place — Competitive Programming Local Contest (ICPC Obour)</li>
+                    <li><span class="cert-bullet">◆</span> Mahara Tech — Backend Developer Certificate</li>
+                    <li><span class="cert-bullet">◆</span> Mahara Tech — Cybersecurity for Beginners Certificate</li>
+                    <li><span class="cert-bullet">◆</span> eJPTv1 Prep — Netriders Academy</li>
+                </ul>
+            </div>
+            <div class="edu-volunteer">
+                <h4 class="edu-subtitle"><i class="fas fa-hand-holding-heart"></i> Volunteering</h4>
+                <ul class="cert-list">
+                    <li><span class="cert-bullet">◆</span> Leader of Cybersecurity track (IEEE Obour)</li>
+                    <li><span class="cert-bullet">◆</span> Mentor (ICPC Obour)</li>
+                </ul>
+            </div>
+            <div class="edu-langs">
+                <h4 class="edu-subtitle"><i class="fas fa-language"></i> Languages</h4>
+                <div class="lang-tags">
+                    <span class="lang-tag">Arabic <small>(Native)</small></span>
+                    <span class="lang-tag">English <small>(B2)</small></span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== COURSES ===== -->
+    <section id="courses" class="section">
+        <div class="section-header">
+            <span class="section-num">06</span>
+            <div class="section-line"></div>
+            <h2 class="section-title">COURSES</h2>
+        </div>
+        <div class="courses-terminal">
+            <div class="terminal-topbar">
+                <span class="dot red"></span>
+                <span class="dot yellow"></span>
+                <span class="dot green"></span>
+                <span class="terminal-filename">training_log.sh</span>
+            </div>
+            <div class="terminal-body courses-body">
+                <p class="course-entry"><span class="course-year">[2023]</span> <span class="course-arrow">→</span> <span class="course-name">Backend &amp; Security Fundamentals</span> <span class="course-source">— MaharaTech</span></p>
+                <p class="course-detail">Learned backend fundamentals, REST APIs, DB integration.</p>
+                <p class="course-entry"><span class="course-year">[2023]</span> <span class="course-arrow">→</span> <span class="course-name">Advanced Backend &amp; Security</span> <span class="course-source">— Self-Study</span></p>
+                <p class="course-detail">Advanced auth patterns, API security, scalable architecture.</p>
+                <p class="course-entry"><span class="course-year">[2024]</span> <span class="course-arrow">→</span> <span class="course-name">Web App Security &amp; OWASP Top 10</span> <span class="course-source">— PortSwigger</span></p>
+                <p class="course-detail">XSS, SQL Injection, SSRF labs.</p>
+                <p class="course-entry"><span class="course-year">[2023]</span> <span class="course-arrow">→</span> <span class="course-name">eJPTv1 Prep</span> <span class="course-source">— Netriders</span></p>
+                <p class="course-detail">Reconnaissance, automation, vulnerability discovery.</p>
+                <p class="course-entry"><span class="course-year">[2022-2024]</span> <span class="course-arrow">→</span> <span class="course-name">Data Structures &amp; Algorithms</span> <span class="course-source">— Codeforces/ECPC</span></p>
+                <p class="course-detail">Problem solving, DP, graphs.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== CONTACT ===== -->
+    <section id="contact" class="section">
+        <div class="section-header">
+            <span class="section-num">07</span>
+            <div class="section-line"></div>
+            <h2 class="section-title">CONTACT</h2>
+        </div>
+        <div class="contact-container">
+            <p class="contact-tagline">Let's build something secure together.</p>
+            <a href="mailto:swilam.per@gmail.com" class="contact-email">swilam.per@gmail.com</a>
+            <a href="tel:+201030141149" class="contact-phone"><i class="fas fa-phone"></i> +20 103 014 1149</a>
+            <div class="contact-socials">
+                <a href="https://www.linkedin.com/in/swilam-dev" target="_blank" rel="noopener" class="social-link" data-tooltip="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://github.com/mohamed-swilam" target="_blank" rel="noopener" class="social-link" data-tooltip="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.facebook.com/swilam2752003" target="_blank" rel="noopener" class="social-link" data-tooltip="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=201030141149" target="_blank" rel="noopener" class="social-link" data-tooltip="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== FOOTER ===== -->
+    <footer id="footer">
+        <p>&copy; 2025 Mohamed Hamad Swilam — Built with <i class="fas fa-terminal"></i> and <i class="fas fa-shield-halved"></i></p>
+    </footer>
+
+    <!-- ===== SCRIPTS ===== -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
