@@ -139,7 +139,7 @@ Passionate about developing production-ready applications that balance user expe
 ---
 
 # 🏗️ Projects
-<a href="https://github.com/The-Team-Dream/SecureMail-Backend"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail-Backend&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
+<a href="https://github.com/The-Team-Dream/SecureMail"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
 
 - **Overview:** Designed and developed a full-stack secure email platform, including backend services and interactive frontend dashboard, with integrated cybersecurity scanning to detect and prevent threats in real-time.
 - **Key Features:** Secure login, email sending/receiving, phishing and spam detection, malicious link and attachment scanning, AI email analysis, threat reports, and dashboard analytics.  
