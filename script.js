@@ -623,13 +623,7 @@ if (footerYear) {
     const terminalBody = document.querySelector('.terminal-body');
     if (!termText || !terminalBody) return;
 
-    // Get current text and measure height to prevent layout shift
     const originalText = termText.textContent;
-    
-    // Set a fixed min-height based on current content before clearing it
-    const rect = terminalBody.getBoundingClientRect();
-    terminalBody.style.minHeight = `${rect.height}px`;
-
     termText.textContent = '';
     termText.style.visibility = 'visible';
 
@@ -637,11 +631,18 @@ if (footerYear) {
 
     ScrollTrigger.create({
         trigger: '#about',
-        start: 'top 70%',
+        start: 'top 75%',
         once: true,
         onEnter: () => {
             if (hasTyped) return;
             hasTyped = true;
+
+            // Measure the "ghost" height by temporarily putting the text back
+            termText.textContent = originalText;
+            const fullHeight = terminalBody.scrollHeight;
+            terminalBody.style.minHeight = `${fullHeight}px`;
+            termText.textContent = ''; // Clear again to start typing
+
             let i = 0;
             function typeChar() {
                 if (i < originalText.length) {
@@ -649,8 +650,6 @@ if (footerYear) {
                     i++;
                     setTimeout(typeChar, 12);
                 } else {
-                    // Once typing is done, we can remove the fixed height 
-                    // to keep it responsive if the window resizes
                     terminalBody.style.minHeight = 'auto';
                 }
             }

@@ -507,6 +507,7 @@ body.cursor-hover #cursor-ring {
     font-family: var(--font-mono);
     font-size: clamp(12px, 1.5vw, 14px);
     line-height: 1.8;
+    min-height: 200px; /* Base height to prevent total collapse */
 }
 .term-prompt {
     color: var(--accent-green);
