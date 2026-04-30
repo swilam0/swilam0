@@ -26,31 +26,33 @@
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=mohamed-swilam&style=plastic)
+![](https://komarev.com/ghpvc/?username=swilam0&style=plastic)
 
 ---
 
 # 👨‍💻 About Me
+
 Full Stack engineer specializing in building secure, scalable, and high-performance web applications end-to-end.  
-Experienced in designing both backend architectures and frontend experiences, with a strong focus on performance, clean code, and seamless system integration.  
+Experienced in designing both backend architectures and frontend experiences, with a strong focus on performance, clean code, and seamless system integration.
 
 Skilled in building RESTful APIs, authentication & authorization systems, database design, and modern frontend interfaces using React and Next.js.  
-Strong background in penetration testing, vulnerability discovery, and applying security best practices across the entire application stack.  
+Strong background in penetration testing, vulnerability discovery, and applying security best practices across the entire application stack.
 
 Passionate about developing production-ready applications that balance user experience, system performance, and security.
 
 - 🧠 Full Stack Engineer specializing in **Node.js (NestJS, ExpressJS) & React (Next.js)**
-- 🔐 Strong background in API Security, web exploitation, and secure development practices  
-- 🛡️ Junior Pentester with **30+ discovered vulnerabilities**  
-- 🏆 CTF Player & Challenge Creator (Farm CTF)  
-- 🖥️ Competitive Programming Participant (ECPC) background  
-- 🚀 Co-founder of **DeverCrowd**  
+- 🔐 Strong background in API Security, web exploitation, and secure development practices
+- 🛡️ Junior Pentester with **30+ discovered vulnerabilities**
+- 🏆 CTF Player & Challenge Creator (Farm CTF)
+- 🖥️ Competitive Programming Participant (ECPC) background
+- 🚀 Co-founder of **DeverCrowd**
 
 ---
 
 # 🛠️ Tech Stack
 
 ### 🔧 Backend Development
+
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -79,6 +81,7 @@ Passionate about developing production-ready applications that balance user expe
 [![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)]()
 
 ### 🧩 Frontend Development
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![App Router](https://img.shields.io/badge/App_Router-007ACC?style=for-the-badge)]()
@@ -92,12 +95,13 @@ Passionate about developing production-ready applications that balance user expe
 [![Framer](https://img.shields.io/badge/Framer-fff52a?style=for-the-badge)](https://www.framer.com/)
 
 ### 🛡️ Cybersecurity
+
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F24D27?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![Nmap](https://img.shields.io/badge/Nmap-66CCFF?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Nikto](https://img.shields.io/badge/Nikto-FF6600?style=for-the-badge&logo=nikto&logoColor=white)](https://cirt.net/Nikto2)
 [![Metasploit](https://img.shields.io/badge/Metasploit-FF4F79?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-005C9C?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Gobuster](https://img.shields.io/badge/Gobuster-008000?style=for-the-badge&logo=golang&logoColor=white)](https://github.com/OJ/gobuster) 
+[![Gobuster](https://img.shields.io/badge/Gobuster-008000?style=for-the-badge&logo=golang&logoColor=white)](https://github.com/OJ/gobuster)
 [![Sublist3r](https://img.shields.io/badge/Sublist3r-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aboul3la/Sublist3r)
 [![Web Security](https://img.shields.io/badge/Web_Security-F24D27?style=for-the-badge)]()
 [![Auth & API Security](https://img.shields.io/badge/Auth_&_API_Security-4285F4?style=for-the-badge)]()
@@ -113,6 +117,7 @@ Passionate about developing production-ready applications that balance user expe
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ### 🧰 Tools
+
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -122,6 +127,7 @@ Passionate about developing production-ready applications that balance user expe
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
 ### 🧪 Scripting & Languages
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -130,61 +136,65 @@ Passionate about developing production-ready applications that balance user expe
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-
-
 ---
 
 # 🏗️ Projects
+
 <a href="https://github.com/The-Team-Dream/SecureMail"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
 
 - **Overview:** Designed and developed a full-stack secure email platform, including backend services and interactive frontend dashboard, with integrated cybersecurity scanning to detect and prevent threats in real-time.
-- **Key Features:** Secure login, email sending/receiving, phishing and spam detection, malicious link and attachment scanning, AI email analysis, threat reports, and dashboard analytics.  
-- **Technology:** Node.js, Nest.js, MySQL, REST APIs, JWT, Gmail API, Outlook API, IMAP/SMTP, ChatGPT API, VirusTotal API, React, Next.js, Tailwind CSS, JavaScript.  
+- **Key Features:** Secure login, email sending/receiving, phishing and spam detection, malicious link and attachment scanning, AI email analysis, threat reports, and dashboard analytics.
+- **Technology:** Node.js, Nest.js, MySQL, REST APIs, JWT, Gmail API, Outlook API, IMAP/SMTP, ChatGPT API, VirusTotal API, React, Next.js, Tailwind CSS, JavaScript.
+
 ##
+
 <a href="https://github.com/swilam0/MowaChat"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swilam0&repo=MowaChat&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
 
 - **Overview:** Full-featured real-time chat application with Stories, Direct Messages, Group Chats, and a rich media engine — built with a focus on privacy controls, performance, and seamless UX — powered by 25+ real-time Socket.io events.
 - **Key Features:** Real-time messaging via Socket.io: typing indicators, read receipts, online presence, and browser push notifications and Stories with 24-hour auto-expiry (MongoDB TTL), live emoji reactions, viewer tracking, and an explore page for public stories.
-- **Technology:** Node.js, Express.js, Socket.io, MongoDB, Redis, Cloudinary, JWT, Next.js, React Query, Tailwind CSS, TypeScript.  
+- **Technology:** Node.js, Express.js, Socket.io, MongoDB, Redis, Cloudinary, JWT, Next.js, React Query, Tailwind CSS, TypeScript.
+
 ##
+
 <a href="https://github.com/Dever-Crowd/DeverCrowd-Portfolio"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dever-Crowd&repo=DeverCrowd-Portfolio&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
+
 - **Overview:** Startup portfolio web application with a fully controlled admin dashboard to manage the company's price plans, services, projects, and blog content.
-- **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.  
+- **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.
 - **Technology:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication, React, NextJS, HTML5, CSS3, Tailwind, JavaScript.
 
 ---
 
 # 🏆 Cybersecurity Achievements
-- Listed in **Bug Bounty Hall of Fames** *(ClassDojo, Daimler Truck, ION Group, etc.)*  
-- 30+ vulnerabilities reported with high-quality POCs  
-- Designed and hosted CTF challenges  
-- Experienced in recon automation, payload crafting, impact analysis  
+
+- Listed in **Bug Bounty Hall of Fames** _(ClassDojo, Daimler Truck, ION Group, etc.)_
+- 30+ vulnerabilities reported with high-quality POCs
+- Designed and hosted CTF challenges
+- Experienced in recon automation, payload crafting, impact analysis
 
 ---
 
 # 🎓 Education & Certifications
-- **B.Sc. Computer Science (2022–2026)**  
-- **CompTIA**  
-  - Linux+  
-  - Network+  
-  - Security+ (Awareness)  
-- **eLearnSecurity**  
-  - eJPT  
-  - eWAPT  
-  - eWAPTX *(in progress)*
+
+- **B.Sc. Computer Science (2022–2026)**
+- **CompTIA**
+  - Linux+
+  - Network+
+  - Security+ (Awareness)
+- **eLearnSecurity**
+  - eJPT
+  - eWAPT
+  - eWAPTX _(in progress)_
 
 ---
 
-
 # 📊 GitHub Stats
+
 <p align="center">
 <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=swilam0&bg_color=1F222E&color=70A5FD&line=F85D7F&point=FFFFFF&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=swilam0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swilam0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
 
-
 ---
 
-
-> ⚡ *I build, break, and secure systems across the full stack.*
+> ⚡ _I build, break, and secure systems across the full stack._
