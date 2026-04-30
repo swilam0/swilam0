@@ -20,11 +20,7 @@
         bootEl.classList.add('hidden');
         initHeroAnimations();
         ScrollTrigger.refresh();
-<<<<<<< HEAD
     }, 1500);
-=======
-    }, 2600);
->>>>>>> b12a8cc (t)
 })();
 
 // ========================
