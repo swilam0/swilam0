@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/MjJeqNqIoVsAAAAd/batman-gotham-city.gif" />
 </p>
-<h1 align="center">Hi 👋, I'm Mohamed Hamad Swilam</h1>
+<h1 align="center">Hi, I'm Mohamed Hamad Swilam</h1>
 <h3 align="center">Full Stack Engineer | Security-Focused Developer</h3>
 <p align="center">
   <a href="mailto:swilam.per@gmail.com" style="text-decoration: none;">
