@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/MjJeqNqIoVsAAAAd/batman-gotham-city.gif" />
 </p>
 <h1 align="center">Hi, I'm Mohamed Hamad Swilam</h1>
-<h3 align="center">Full Stack Engineer | Security-Focused Developer</h3>
+<h3 align="center">Software Engineer | Security-Focused | Full Stack</h3>
 <p align="center">
   <a href="mailto:swilam.per@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
@@ -32,19 +32,17 @@
 
 # 👨‍💻 About Me
 
-Full Stack engineer specializing in building secure, scalable, and high-performance web applications end-to-end.  
-Experienced in designing both backend architectures and frontend experiences, with a strong focus on performance, clean code, and seamless system integration.
+Software Engineer specializing in building secure, scalable, and high-performance web applications end-to-end.
+Experienced in designing and developing full-stack systems, from backend architecture and APIs to modern frontend applications, with a strong focus on clean code, performance, and seamless user experience.
+Skilled in building robust systems including authentication & authorization, real-time applications, and scalable database architectures, while applying security best practices across the entire development lifecycle.
+Strong background in penetration testing and vulnerability discovery, bringing a security-first mindset into every layer of the application.
+Passionate about solving complex engineering problems and building production-ready systems that balance performance, scalability, and user experience.
 
-Skilled in building RESTful APIs, authentication & authorization systems, database design, and modern frontend interfaces using React and Next.js.  
-Strong background in penetration testing, vulnerability discovery, and applying security best practices across the entire application stack.
-
-Passionate about developing production-ready applications that balance user experience, system performance, and security.
-
-- Full Stack Engineer specializing in **Node.js (NestJS, ExpressJS) & React (Next.js)**
+- Software Engineer building full-stack applications using **Node.js (NestJS, ExpressJS) & React (Next.js)**
 - Strong background in API Security, web exploitation, and secure development practices
 - Junior Pentester with **30+ discovered vulnerabilities**
 - CTF Player & Challenge Creator (Farm CTF)
-- Competitive Programming Participant (ECPC) background
+- Strong problem-solving background (ECPC participant)
 - Co-founder of **DeverCrowd**
 
 ---
@@ -154,7 +152,7 @@ Passionate about developing production-ready applications that balance user expe
 
 <a href="https://github.com/swilam0/MowaChat"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swilam0&repo=MowaChat&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
 
-- **Overview:** Full-featured real-time chat application with Stories, Direct Messages, Group Chats, and a rich media engine — built with a focus on privacy controls, performance, and seamless UX — powered by 25+ real-time Socket.io events.
+- **Overview:** Designed and developed a full-stack real-time communication platform, including backend infrastructure and interactive frontend, with a focus on scalability, performance, and user experience — powered by 25+ Socket.io events.
 - **Key Features:** Real-time messaging via Socket.io: typing indicators, read receipts, online presence, and browser push notifications and Stories with 24-hour auto-expiry (MongoDB TTL), live emoji reactions, viewer tracking, and an explore page for public stories.
 - **Technology:** Node.js, Express.js, Socket.io, MongoDB, Redis, Cloudinary, JWT, Next.js, React Query, Tailwind CSS, TypeScript.
 
@@ -162,7 +160,7 @@ Passionate about developing production-ready applications that balance user expe
 
 <a href="https://github.com/Dever-Crowd/DeverCrowd-Portfolio"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dever-Crowd&repo=DeverCrowd-Portfolio&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
 
-- **Overview:** Startup portfolio web application with a fully controlled admin dashboard to manage the company's price plans, services, projects, and blog content.
+- **Overview:** Built a full-stack portfolio platform with a dynamic admin dashboard, handling both backend APIs and frontend interfaces for complete content management and system control.
 - **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.
 - **Technology:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication, React, NextJS, HTML5, CSS3, Tailwind, JavaScript.
 
@@ -201,4 +199,4 @@ Passionate about developing production-ready applications that balance user expe
 
 ---
 
-> ⚡ _I build, break, and secure systems across the full stack._
+> ⚡ _I build, break, and secure systems — from architecture to user experience._
