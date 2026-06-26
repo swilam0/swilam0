@@ -19,16 +19,16 @@
 
 <!-- ===================== CONTACT ICONS ===================== -->
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://hackerone.com/yourusername"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-  <a href="https://bugcrowd.com/yourusername"><img src="https://img.shields.io/badge/Bugcrowd-FF6929?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/yourusername"><img src="https://img.shields.io/badge/TryHackMe-2A0B5E?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="mailto:swilam.per@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/swilam0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/swilam0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://hackerone.com/swilam0"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+  <a href="https://bugcrowd.com/swilam0"><img src="https://img.shields.io/badge/Bugcrowd-FF6929?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+  <a href="https://twitter.com/swilam0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/swilam0"><img src="https://img.shields.io/badge/TryHackMe-2A0B5E?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=swilam0&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)
 
 </div>
 
@@ -39,7 +39,7 @@
 <!-- ===================== WHOAMI ===================== -->
 ## `whoami`
 
-<div align="center">
+<div align="start">
 
 ```
 ┌──(swilam㉿offsec)-[~]
