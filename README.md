@@ -1,202 +1,310 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/MjJeqNqIoVsAAAAd/batman-gotham-city.gif" />
-</p>
-<h1 align="center">Hi, I'm Mohamed Hamad Swilam</h1>
-<h3 align="center">Software Engineer | Security-Focused | Full Stack</h3>
-<p align="center">
-  <a href="mailto:swilam.per@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/swilam0" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/github/white" width="28" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/swilam0" style="text-decoration: none;">
-  <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=201030141149" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/whatsapp/gree" width="28" />
-  </a>
-  <br/>
-  <br/>
-<a href="https://drive.google.com/file/d/1gkWLNRTNvd_fus9RrpATad_OOI8EZDp2/view?usp=drive_link" target="_blank" download>
-    Download My CV
+<div align="center">
+
+<!-- ===================== HERO BANNER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Mohamed%20Hamad%20Swilam&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- ===================== TYPING HEADER ===================== -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Breaking+Apps+to+Make+Them+Safer;Web+Application+Penetration+Tester;API+Security+%26+Vulnerability+Research;30%2B+Valid+Bugs+Reported+via+Bug+Bounty;Creator+of+FarmCTF+%7C+Active+CTF+Player;Hunting+IDORs%2C+SSRFs+%26+Auth+Flaws+Daily" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- ===================== STATUS BADGES ===================== -->
+![Status](https://img.shields.io/badge/STATUS-Hunting%20Bugs-00FF9C?style=for-the-badge&logo=target&logoColor=black&labelColor=0d1117)
+![Open To](https://img.shields.io/badge/OPEN%20TO-Pentest%20%7C%20AppSec%20%7C%20Bug%20Bounty-FF2D55?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)
+![Location](https://img.shields.io/badge/BASED%20IN-Egypt-00ADD8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
+
+<br/>
+
+<!-- ===================== CONTACT ICONS ===================== -->
+<p>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://hackerone.com/yourusername"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+  <a href="https://bugcrowd.com/yourusername"><img src="https://img.shields.io/badge/Bugcrowd-FF6929?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/yourusername"><img src="https://img.shields.io/badge/TryHackMe-2A0B5E?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=swilam0&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)
 
----
+</div>
 
-# 👨‍💻 About Me
+<br/>
 
-Software Engineer specializing in building secure, scalable, and high-performance web applications end-to-end.
-Experienced in designing and developing full-stack systems, from backend architecture and APIs to modern frontend applications, with a strong focus on clean code, performance, and seamless user experience.
-Skilled in building robust systems including authentication & authorization, real-time applications, and scalable database architectures, while applying security best practices across the entire development lifecycle.
-Strong background in penetration testing and vulnerability discovery, bringing a security-first mindset into every layer of the application.
-Passionate about solving complex engineering problems and building production-ready systems that balance performance, scalability, and user experience.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-- Software Engineer building full-stack applications using **Node.js (NestJS, ExpressJS) & React (Next.js)**
-- Strong background in API Security, web exploitation, and secure development practices
-- Junior Pentester with **30+ discovered vulnerabilities**
-- CTF Player & Challenge Creator (Farm CTF)
-- Strong problem-solving background (ECPC participant)
-- Co-founder of **DeverCrowd**
+<!-- ===================== WHOAMI ===================== -->
+## `whoami`
 
----
+<div align="center">
 
-# 🛠️ Tech Stack
+```
+┌──(swilam㉿offsec)-[~]
+└─$ cat profile.txt
+```
 
-### 🔧 Backend Development
+</div>
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
-[![REST API](https://img.shields.io/badge/RESTful_API-007ACC?style=for-the-badge)]()
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)]()
-[![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge)]()  
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)]()
-[![OAuth2](https://img.shields.io/badge/OAuth2-0a0a0a?style=for-the-badge)]()
-[![RBAC](https://img.shields.io/badge/RBAC-0a0a0a?style=for-the-badge)]()  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2479A2?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![Prisma](https://img.shields.io/badge/Prisma-17a395?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-315CDB?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)  
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)]()
-[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)  
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-072A4E?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
-[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
-[![Nodemailer](https://img.shields.io/badge/Nodemailer-FF3A6E?style=for-the-badge)]()
+I'm **Mohamed Hamad Swilam**, a **Penetration Tester** and **Security Researcher** who started as a Backend Software Engineer — and that's exactly my edge. I understand how applications are *built*, which means I know exactly where they *break*. I spend my time hunting for vulnerabilities in web apps and APIs, hardening security pipelines, and breaking things on purpose so others don't have to break them by accident.
 
----
+```yaml
+role:            Junior Penetration Tester / AppSec Engineer / Bug Bounty Hunter
+focus:           Web App Pentesting · API Security · Vulnerability Research
+mindset:         "Think like an attacker, build like an engineer"
+bounties:        30+ valid vulnerabilities reported & triaged
+ctf:             Creator of FarmCTF | Active CTF Player | ECPC Participant
+builds:          SecureMail (Email Security Platform)
+co-founder:      DeverCrowd
+currently:       Searching for IDORs, SSRFs & broken auth in the wild
+```
 
-### 🧩 Frontend Development
+<br/>
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-[![App Router](https://img.shields.io/badge/App_Router-007ACC?style=for-the-badge)]()
-[![Server Components](https://img.shields.io/badge/Server_Components-61DAFB?style=for-the-badge)]()
-[![Server Actions](https://img.shields.io/badge/Server_Actions-007ACC?style=for-the-badge)]()  
-[![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)]()
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)]()
-[![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)]()  
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Shadcn UI](https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge)](https://ui.shadcn.com/)  
-[![SEO](https://img.shields.io/badge/SEO_Optimization-4285F4?style=for-the-badge)]()
-[![Rendering](https://img.shields.io/badge/Rendering_Strategies-F24D27?style=for-the-badge)]()
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements & Highlights
 
-### 🧪 Testing
+<div align="center">
 
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
-[![Bun Test](https://img.shields.io/badge/Bun_Test-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+| 🎯 | Achievement |
+|:---:|:---|
+| 🐞 | **30+ valid vulnerabilities** reported through Bug Bounty programs |
+| 🏗️ | **Creator of FarmCTF** — a CTF platform for offensive security practice |
+| 🚩 | **Active CTF Player** — consistently competing in offensive security challenges |
+| 📧 | **Developer of SecureMail** — AI-powered Email Security Platform (Graduation Project) |
+| 🧮 | **ECPC Participant** — Egyptian Collegiate Programming Contest |
+| 🤝 | **Co-founder of DeverCrowd** — tech community for developers & security enthusiasts |
 
+</div>
 
----
+<br/>
 
-### ⚙️ DevOps & Cloud
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]()  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🔥 Featured Projects
 
----
+<div align="center">
 
-### 🛡️ Cybersecurity
+### ⭐ Security & Offensive Projects
 
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F24D27?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-66CCFF?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
-[![Metasploit](https://img.shields.io/badge/Metasploit-FF4F79?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-005C9C?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
-[![OWASP](https://img.shields.io/badge/OWASP_Top_10-DC382D?style=for-the-badge)]()
-[![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-F85D7F?style=for-the-badge)]()
-[![API Security](https://img.shields.io/badge/API_Security-4285F4?style=for-the-badge)]()
-[![Pen Testing](https://img.shields.io/badge/PenTesting-F24D27?style=for-the-badge)]()
+<a href="https://github.com/yourusername/securemail">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=securemail&theme=dark&bg_color=0d1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/yourusername/farmctf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=farmctf&theme=dark&bg_color=0d1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/yourusername/bug-bounty-tools">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bug-bounty-tools&theme=dark&bg_color=0d1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/yourusername/nuclei-templates">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nuclei-templates&theme=dark&bg_color=0d1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/yourusername/security-notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=security-notes&theme=dark&bg_color=0d1117&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+</a>
 
----
+</div>
 
-### 🧰 Tools
+<br/>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Render](https://img.shields.io/badge/Render-37474F?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+#### 📧 SecureMail — Email Security Platform
 
----
+> An end-to-end **Email Security Platform** built to detect phishing, lookalike domains, and malicious payloads before they reach the inbox.
 
-### 🧪 Languages
+<div align="center">
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
----
+![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-FF2D55?style=flat-square&logo=shieldsdotio&logoColor=white)
+![Lookalike Domains](https://img.shields.io/badge/Lookalike%20Domain%20Detection-FF2D55?style=flat-square&logo=shieldsdotio&logoColor=white)
+![Malicious URLs](https://img.shields.io/badge/Malicious%20URL%20Detection-FF2D55?style=flat-square&logo=shieldsdotio&logoColor=white)
+![Attachment Scanning](https://img.shields.io/badge/Attachment%20Scanning-FF2D55?style=flat-square&logo=shieldsdotio&logoColor=white)
+![AI Analysis](https://img.shields.io/badge/AI%20Email%20Analysis-00FF9C?style=flat-square&logo=openai&logoColor=black)
+![Threat Reports](https://img.shields.io/badge/Threat%20Reports-FF2D55?style=flat-square&logo=shieldsdotio&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail%20Integration-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook%20Integration-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
+![IMAP/SMTP](https://img.shields.io/badge/IMAP%2FSMTP-0d1117?style=flat-square&logo=maildotru&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal%20Integration-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard%20Analytics-00ADD8?style=flat-square&logo=chartdotjs&logoColor=white)
 
-# 🏗️ Projects
+</div>
 
-<a href="https://github.com/The-Team-Dream/SecureMail"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Team-Dream&repo=SecureMail&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
+#### 🚩 FarmCTF — Offensive Security Training Platform
 
-- **Overview:** Designed and developed a full-stack secure email platform, including backend services and interactive frontend dashboard, with integrated cybersecurity scanning to detect and prevent threats in real-time.
-- **Key Features:** Secure login, email sending/receiving, phishing and spam detection, malicious link and attachment scanning, AI email analysis, threat reports, and dashboard analytics.
-- **Technology:** Node.js, Nest.js, MySQL, REST APIs, JWT, Gmail API, Outlook API, IMAP/SMTP, ChatGPT API, VirusTotal API, React, Next.js, Tailwind CSS, JavaScript.
+> A **Capture The Flag platform** built from scratch to help others practice penetration testing, exploitation, and offensive security in a safe, gamified environment.
 
-##
+<div align="center">
 
-<a href="https://github.com/swilam0/MowaChat"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swilam0&repo=MowaChat&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
+![CTF](https://img.shields.io/badge/Capture%20The%20Flag-000000?style=flat-square&logo=ctftime&logoColor=red)
+![Offensive Security](https://img.shields.io/badge/Offensive%20Security%20Training-red?style=flat-square&logo=hackaday&logoColor=white)
+![Gamified Learning](https://img.shields.io/badge/Gamified%20Learning-00FF9C?style=flat-square&logo=gitbook&logoColor=black)
 
-- **Overview:** Designed and developed a full-stack real-time communication platform, including backend infrastructure and interactive frontend, with a focus on scalability, performance, and user experience — powered by 25+ Socket.io events.
-- **Key Features:** Real-time messaging via Socket.io: typing indicators, read receipts, online presence, and browser push notifications and Stories with 24-hour auto-expiry (MongoDB TTL), live emoji reactions, viewer tracking, and an explore page for public stories.
-- **Technology:** Node.js, Express.js, Socket.io, MongoDB, Redis, Cloudinary, JWT, Next.js, React Query, Tailwind CSS, TypeScript.
+</div>
 
-##
+<br/>
 
-<a href="https://github.com/Dever-Crowd/DeverCrowd-Portfolio"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dever-Crowd&repo=DeverCrowd-Portfolio&theme=react&bg_color=1F222E&title_color=169D7f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SecureMail"></a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-- **Overview:** Built a full-stack portfolio platform with a dynamic admin dashboard, handling both backend APIs and frontend interfaces for complete content management and system control.
-- **Key Features:** Admin authentication system, content management dashboard, dynamic control of website sections, services and projects management, blog/news management, contact messages management, and rolebased access.
-- **Technology:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication, React, NextJS, HTML5, CSS3, Tailwind, JavaScript.
+<!-- ===================== CYBERSECURITY SKILLS ===================== -->
+## 🛡️ Cybersecurity Expertise
 
----
+<div align="center">
 
-# 🏆 Cybersecurity Achievements
+### Offensive Security & Testing Disciplines
 
-- Listed in **Bug Bounty Hall of Fames** _(ClassDojo, Daimler Truck, ION Group, etc.)_
-- 30+ vulnerabilities reported with high-quality POCs
-- Designed and hosted CTF challenges
-- Experienced in recon automation, payload crafting, impact analysis
+![Web App Pentesting](https://img.shields.io/badge/Web%20Application%20Pentesting-0d1117?style=for-the-badge&logo=Hack%20The%20Box&logoColor=00FF9C)
+![API Security](https://img.shields.io/badge/API%20Security-0d1117?style=for-the-badge&logo=swagger&logoColor=00FF9C)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=red)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty%20Hunting-FF2D55?style=for-the-badge&logo=hackerone&logoColor=white)
+![Recon Automation](https://img.shields.io/badge/Recon%20Automation-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
+![Auth Testing](https://img.shields.io/badge/Authentication%20Testing-0d1117?style=for-the-badge&logo=auth0&logoColor=white)
+![AuthZ Testing](https://img.shields.io/badge/Authorization%20Testing-0d1117?style=for-the-badge&logo=keycloak&logoColor=white)
+![Business Logic](https://img.shields.io/badge/Business%20Logic%20Testing-0d1117?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Secure Code Review](https://img.shields.io/badge/Secure%20Code%20Review-0d1117?style=for-the-badge&logo=codeclimate&logoColor=00FF9C)
 
----
+### Vulnerability Classes
 
-# 🎓 Education & Certifications
+![IDOR](https://img.shields.io/badge/IDOR-FF2D55?style=for-the-badge)
+![SSRF](https://img.shields.io/badge/SSRF-FF2D55?style=for-the-badge)
+![XSS](https://img.shields.io/badge/XSS-FF2D55?style=for-the-badge)
+![SQLi](https://img.shields.io/badge/SQL%20Injection-FF2D55?style=for-the-badge)
+![CSRF](https://img.shields.io/badge/CSRF-FF2D55?style=for-the-badge)
+![SSTI](https://img.shields.io/badge/SSTI-FF2D55?style=for-the-badge)
+![RCE](https://img.shields.io/badge/RCE-FF2D55?style=for-the-badge)
+![File Upload](https://img.shields.io/badge/File%20Upload%20Vulns-FF2D55?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT%20Attacks-FF2D55?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth%20Misconfig-FF2D55?style=for-the-badge)
+![Info Disclosure](https://img.shields.io/badge/Information%20Disclosure-FF2D55?style=for-the-badge)
+![Rate Limit](https://img.shields.io/badge/Rate%20Limit%20Testing-FF2D55?style=for-the-badge)
+![Race Conditions](https://img.shields.io/badge/Race%20Conditions-FF2D55?style=for-the-badge)
 
-- **B.Sc. Computer Science (2022–2026)**
-- **CompTIA**
-  - Linux+
-  - Network+
-  - Security+ (Awareness)
-- **eLearnSecurity**
-  - eJPT
-  - eWAPT
-  - eWAPTX _(in progress)_
+</div>
 
----
+<br/>
 
-# 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center">
-<img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=swilam0&bg_color=1F222E&color=70A5FD&line=F85D7F&point=FFFFFF&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=swilam0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swilam0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</p>
+<!-- ===================== TOOLS ===================== -->
+## 🧰 Tools & Arsenal
 
----
+<div align="center">
 
-> ⚡ _I build, break, and secure systems — from architecture to user experience._
+### Recon & Scanning
+
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF9C)
+![Amass](https://img.shields.io/badge/Amass-0d1117?style=for-the-badge&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-0d1117?style=for-the-badge&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-0d1117?style=for-the-badge&logoColor=white)
+![Katana](https://img.shields.io/badge/Katana-0d1117?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-0d1117?style=for-the-badge&logoColor=red)
+![ParamSpider](https://img.shields.io/badge/ParamSpider-0d1117?style=for-the-badge&logoColor=white)
+![Feroxbuster](https://img.shields.io/badge/Feroxbuster-0d1117?style=for-the-badge&logoColor=white)
+
+### Exploitation & Testing
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-D22128?style=for-the-badge&logoColor=white)
+![Dalfox](https://img.shields.io/badge/Dalfox-0d1117?style=for-the-badge&logoColor=white)
+![GF](https://img.shields.io/badge/GF-0d1117?style=for-the-badge&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-66B032?style=for-the-badge&logo=owasp&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-0d1117?style=for-the-badge&logoColor=white)
+![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Analysis & Environment
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![FFUF](https://img.shields.io/badge/FFUF-0d1117?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== PROGRAMMING (SUPPORTING SKILL) ===================== -->
+## 💻 Engineering Background *(Supporting Skillset)*
+
+> My background as a Backend Software Engineer is what allows me to read source code, understand application logic, and find vulnerabilities others miss.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C" width="40%"/>
+
+<img src="https://streak-stats.demolab.com/?user=yourusername&theme=dark&background=0D1117&border=00FF9C&ring=00FF9C&fire=FF2D55&currStreakLabel=00FF9C" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&color=00FF9C&line=FF2D55&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+### 🏅 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Generated automatically via GitHub Actions — see <code>.github/workflows/snake.yml</code> setup below</sub>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+### "I don't just write code — I break it, understand it, and secure it."
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&style=for-the-badge&color=00FF9C)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
