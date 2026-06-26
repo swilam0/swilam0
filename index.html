@@ -1,33 +1,38 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Swilam — Software Engineer & Security Specialist</title>
-    <link rel="apple-touch-icon" sizes="180x180" href="public/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="public/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="public/icons/favicon-16x16.png">
-    <link rel="manifest" href="public/icons/site.webmanifest">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="public/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="public/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="public/icons/favicon-16x16.png" />
+    <link rel="manifest" href="public/icons/site.webmanifest" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     <link
         href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Space+Grotesk:wght@300;400;500;600;700;800&display=swap"
-        rel="stylesheet">
+        rel="stylesheet" />
 </head>
 
 <body>
-
     <!-- ===== BOOT SEQUENCE ===== -->
     <div id="boot-sequence">
         <div class="boot-lines">
-            <p class="boot-line" data-delay="0">&gt; INITIALIZING SECURE CONNECTION...</p>
-            <p class="boot-line" data-delay="250">&gt; LOADING PROTOCOLS.............. <span class="boot-ok">[OK]</span>
+            <p class="boot-line" data-delay="0">
+                &gt; INITIALIZING SECURE CONNECTION...
             </p>
-            <p class="boot-line" data-delay="500">&gt; ESTABLISHING ENCRYPTION........ <span class="boot-ok">[OK]</span>
+            <p class="boot-line" data-delay="250">
+                &gt; LOADING PROTOCOLS.............. <span class="boot-ok">[OK]</span>
             </p>
-            <p class="boot-line" data-delay="750">&gt; SCANNING FOR THREATS........... <span
-                    class="boot-clear">[CLEAR]</span></p>
+            <p class="boot-line" data-delay="500">
+                &gt; ESTABLISHING ENCRYPTION........ <span class="boot-ok">[OK]</span>
+            </p>
+            <p class="boot-line" data-delay="750">
+                &gt; SCANNING FOR THREATS...........
+                <span class="boot-clear">[CLEAR]</span>
+            </p>
             <p class="boot-line" data-delay="1000">&gt; ACCESS GRANTED</p>
         </div>
     </div>
@@ -58,12 +63,14 @@
     <section id="hero">
         <canvas id="hero-canvas"></canvas>
         <div class="hero-content">
-            <div class="hero-badge">[ SECURE CONNECTION ESTABLISHED ]</div>
-            <h1 class="glitch" data-text="Mohamed Hamad Swilam">Mohamed Hamad Swilam</h1>
+            <div class="hero-badge">[ [ FIND • EXPLOIT • SECURE ] ]</div>
+            <h1 class="glitch" data-text="Mohamed Hamad Swilam">
+                Mohamed Hamad Swilam
+            </h1>
             <div class="hero-titles">
-                <span class="title-item">Software Engineer</span>
-                <br>
-                <span class="title-item">Security Specialist</span>
+                <span class="title-item">Junior Penetration Tester</span>
+                <br />
+                <span class="title-item">Security Researcher</span>
             </div>
             <div class="hero-buttons">
                 <a href="#projects" class="btn btn-primary"><i class="fas fa-shield-halved"></i> View Work</a>
@@ -72,9 +79,11 @@
                     CV</a>
             </div>
             <div class="hero-status">
-                <span><i class="fas fa-lock"></i> FIREWALL: ACTIVE</span>
-                <span><i class="fas fa-key"></i> ENCRYPTION: AES-256</span>
-                <span><i class="fas fa-eye"></i> THREAT LEVEL: LOW</span>
+                <div class="hero-status">
+                    <span><i class="fas fa-bug"></i> 30+ Valid Reports</span>
+                    <span><i class="fas fa-flag"></i> FarmCTF Creator</span>
+                    <span><i class="fas fa-user-secret"></i> CTF Player</span>
+                </div>
             </div>
         </div>
         <div class="scroll-indicator">
@@ -101,37 +110,49 @@
                 <div class="terminal-body">
                     <p class="term-prompt">$ cat about.txt</p>
                     <p class="term-text">
-                        Software Engineer with a security-first mindset, building scalable and high-performance web
-                        applications end-to-end.
-                        Experienced in designing full-stack systems, from backend architecture and APIs to modern
-                        frontend applications, with a strong focus on clean code, performance, and seamless user
-                        experience.
-                        Skilled in building robust systems including authentication & authorization, real-time
-                        applications, and scalable database architectures across SQL and NoSQL.
-                        Background in penetration testing, bug bounty hunting, and CTF competitions — applying offensive
-                        security knowledge to build systems that are resilient by design.
-                        Strong problem-solving foundation from competitive programming (ECPC), applied across real-world
-                        engineering challenges.
+                        Junior Penetration Tester and Security Researcher passionate about offensive
+                        security, vulnerability research, and securing modern web applications.
+
+                        I have responsibly disclosed <strong>30+ valid vulnerabilities</strong>
+                        through Bug Bounty programs, actively participate in CTF competitions,
+                        and created <strong>FarmCTF</strong>, a platform designed to help security
+                        enthusiasts practice offensive security skills.
+
+                        I also developed <strong>SecureMail</strong>, an email security platform
+                        focused on detecting phishing attacks, lookalike domains, malicious URLs,
+                        and suspicious attachments.
+
+                        My background in Software Engineering enables me to understand applications
+                        from both the developer's and attacker's perspective, helping me identify
+                        vulnerabilities, assess their impact, and recommend effective remediation.
+
+                        Currently focused on Web Application Security, API Security,
+                        Bug Bounty Hunting, Secure Code Review, and Vulnerability Research.
                     </p>
-                    <p class="term-prompt term-done">$ <span class="cursor-blink">_</span></p>
+                    <p class="term-prompt term-done">
+                        $ <span class="cursor-blink">_</span>
+                    </p>
                 </div>
             </div>
             <div class="about-decor">
                 <div class="decor-card">
-                    <div class="decor-icon"><i class="fas fa-server"></i></div>
-                    <span class="decor-label">System Design</span>
+                    <div class="decor-icon"><i class="fas fa-bug"></i></div>
+                    <span class="decor-label">30+ Valid Reports</span>
                 </div>
+
+                <div class="decor-card">
+                    <div class="decor-icon"><i class="fas fa-flag"></i></div>
+                    <span class="decor-label">FarmCTF Creator</span>
+                </div>
+
                 <div class="decor-card">
                     <div class="decor-icon"><i class="fas fa-shield-halved"></i></div>
-                    <span class="decor-label">Security Mindset</span>
+                    <span class="decor-label">Web & API Security</span>
                 </div>
+
                 <div class="decor-card">
-                    <div class="decor-icon"><i class="fas fa-trophy"></i></div>
-                    <span class="decor-label">ECPC Competitor</span>
-                </div>
-                <div class="decor-card">
-                    <div class="decor-icon"><i class="fas fa-bug"></i></div>
-                    <span class="decor-label">Bug Bounty Hunter</span>
+                    <div class="decor-icon"><i class="fas fa-envelope-open-text"></i></div>
+                    <span class="decor-label">SecureMail</span>
                 </div>
             </div>
         </div>
@@ -147,14 +168,72 @@
         <div class="timeline">
             <div class="timeline-item">
                 <div class="timeline-dot"></div>
+
+                <div class="timeline-card">
+                    <div class="timeline-date">May 2024 — Present</div>
+
+                    <h3 class="timeline-role">Security Researcher | Bug Bounty Hunter</h3>
+
+                    <span class="timeline-company">@ HackerOne & Bugcrowd</span>
+
+                    <ul class="timeline-desc">
+                        <li>Reported <strong>30+ valid vulnerabilities</strong> across real-world web applications and
+                            services.</li>
+
+                        <li>Listed in multiple <strong>Bug Bounty Program Hall of Fames</strong>, including ClassDojo,
+                            ION Group, and other organizations.</li>
+
+                        <li>Performed manual Web Application & API Security Testing following OWASP Top 10
+                            methodologies.</li>
+
+                        <li>Specialized in vulnerability discovery, validation, impact analysis, and responsible
+                            disclosure.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+
+                <div class="timeline-card">
+                    <div class="timeline-date">May 2024 — Present</div>
+
+                    <h3 class="timeline-role">CTF Player & FarmCTF Creator</h3>
+
+                    <span class="timeline-company">@ Independent</span>
+
+                    <ul class="timeline-desc">
+                        <li>Competed in Capture The Flag competitions covering Web Exploitation, OSINT, Network
+                            Security, and Digital Forensics.</li>
+
+                        <li>Solved real-world offensive security challenges and documented technical write-ups.</li>
+
+                        <li>Designed and developed <strong>FarmCTF</strong>, including challenge creation,
+                            infrastructure setup, and deployment.</li>
+
+                        <li>Built vulnerable environments to help security enthusiasts practice penetration testing
+                            techniques.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+
                 <div class="timeline-card">
                     <div class="timeline-date">Mar 2025 — Present</div>
+
                     <h3 class="timeline-role">Full-Stack Developer</h3>
+
                     <span class="timeline-company">@ DeverCrowd</span>
+
                     <ul class="timeline-desc">
-                        <li>Designed scalable apps using Node.js, Express.js, React.js, Next.js.</li>
-                        <li>Developed REST APIs handling +1000 requests/day with 40% improved response time.</li>
-                        <li>Applied security best practices throughout the lifecycle.</li>
+                        <li>Designed and developed secure web applications using Node.js, Express.js, React.js, and
+                            Next.js.</li>
+
+                        <li>Implemented secure authentication, authorization, RBAC, and REST APIs.</li>
+
+                        <li>Applied secure coding principles and OWASP security best practices throughout the SDLC.</li>
+
+                        <li>Optimized backend performance while maintaining scalable and secure architecture.</li>
                     </ul>
                 </div>
             </div>
@@ -176,24 +255,114 @@
                 <div class="project-corner bl"></div>
                 <div class="project-corner br"></div>
                 <div class="project-header">
-                    <div class="project-icon"><i class="fas fa-envelope-open-text"></i></div>
+                    <div class="project-icon">
+                        <i class="fas fa-envelope-open-text"></i>
+                    </div>
                     <div class="project-links">
                         <a href="https://github.com/mohamed-swilam" target="_blank" rel="noopener" title="GitHub"><i
                                 class="fab fa-github"></i></a>
                     </div>
                 </div>
                 <h3 class="project-name">SecureMail</h3>
-                <p class="project-desc">AI-powered security pipeline connecting Gmail/Outlook/IMAP. Classifies phishing,
-                    spam, malware.</p>
+                <p class="project-desc">
+                    AI-powered security pipeline connecting Gmail/Outlook/IMAP.
+                    Classifies phishing, spam, malware.
+                </p>
                 <div class="project-features">
                     <span class="feat-tag"><i class="fas fa-check"></i> Multi-provider OAuth</span>
-                    <span class="feat-tag"><i class="fas fa-check"></i> AI threat detection (87 endpoints, 10+
-                        patterns)</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> AI threat detection (87 endpoints,
+                        10+ patterns)</span>
                 </div>
                 <div class="project-stack">
                     <span>Node.js</span><span>NestJS</span><span>PostgreSQL</span><span>Prisma</span><span>REST</span><span>JWT</span><span>IMAP/SMTP</span><span>ChatGPT
                         API</span><span>React</span><span>Next.js</span><span>Tailwind</span>
                 </div>
+            </div>
+            <!-- SwiHack -->
+            <div class="project-card" data-accent="magenta">
+
+                <div class="project-corner tl"></div>
+                <div class="project-corner tr"></div>
+                <div class="project-corner bl"></div>
+                <div class="project-corner br"></div>
+
+                <div class="project-header">
+                    <div class="project-icon">
+                        <i class="fas fa-bug"></i>
+                    </div>
+
+                    <div class="project-links">
+                        <a href="YOUR_GITHUB_LINK" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <h3 class="project-name">SwiHack</h3>
+
+                <p class="project-desc">
+                    Distributed vulnerability scanning framework for automated web
+                    application security assessment and large-scale reconnaissance.
+                </p>
+
+                <div class="project-features">
+                    <span class="feat-tag"><i class="fas fa-check"></i> Distributed Scanning Engine</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> Automated OWASP Top 10 Detection</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> AI-assisted Vulnerability Analysis</span>
+                </div>
+
+                <div class="project-stack">
+                    <span>Go</span>
+                    <span>Python</span>
+                    <span>Redis Streams</span>
+                    <span>Docker</span>
+                    <span>LLM</span>
+                    <span>REST APIs</span>
+                </div>
+
+            </div>
+            <!-- FarmCTF -->
+            <div class="project-card" data-accent="green">
+
+                <div class="project-corner tl"></div>
+                <div class="project-corner tr"></div>
+                <div class="project-corner bl"></div>
+                <div class="project-corner br"></div>
+
+                <div class="project-header">
+                    <div class="project-icon">
+                        <i class="fas fa-flag"></i>
+                    </div>
+
+                    <div class="project-links">
+                        <a href="YOUR_GITHUB_LINK" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <h3 class="project-name">FarmCTF</h3>
+
+                <p class="project-desc">
+                    Capture The Flag platform designed to help security enthusiasts practice
+                    offensive security through realistic web exploitation challenges.
+                </p>
+
+                <div class="project-features">
+                    <span class="feat-tag"><i class="fas fa-check"></i> Custom Web Challenges</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> Dynamic Scoreboard</span>
+                    <span class="feat-tag"><i class="fas fa-check"></i> Dockerized Challenge Infrastructure</span>
+                </div>
+
+                <div class="project-stack">
+                    <span>Node.js</span>
+                    <span>Docker</span>
+                    <span>Linux</span>
+                    <span>MongoDB</span>
+                    <span>React</span>
+                    <span>Security Labs</span>
+                </div>
+
             </div>
             <!-- MowaChat -->
             <div class="project-card" data-accent="magenta">
@@ -209,7 +378,9 @@
                     </div>
                 </div>
                 <h3 class="project-name">MowaChat</h3>
-                <p class="project-desc">Real-time chat with Stories, Groups, and media engine.</p>
+                <p class="project-desc">
+                    Real-time chat with Stories, Groups, and media engine.
+                </p>
                 <div class="project-features">
                     <span class="feat-tag"><i class="fas fa-check"></i> Socket.io real-time events</span>
                     <span class="feat-tag"><i class="fas fa-check"></i> 24h story expiry</span>
@@ -256,56 +427,118 @@
             <h2 class="section-title">TECH_SKILLS</h2>
         </div>
         <div class="skills-grid">
+            <div class="skill-module" data-color="red">
+                <div class="module-header">
+                    <i class="fas fa-user-secret"></i>
+                    <h3>Offensive Security</h3>
+                </div>
+
+                <div class="module-tags" data-color="blue">
+                    <span>Web Application Pentesting</span>
+                    <span>API Security</span>
+                    <span>Bug Bounty Hunting</span>
+                    <span>OWASP Top 10</span>
+                    <span>Authentication Testing</span>
+                    <span>Authorization Testing</span>
+                    <span>Business Logic Testing</span>
+                    <span>IDOR</span>
+                    <span>XSS</span>
+                    <span>SQL Injection</span>
+                    <span>SSRF</span>
+                    <span>CSRF</span>
+                    <span>SSTI</span>
+                    <span>JWT Security</span>
+                    <span>File Upload</span>
+                </div>
+            </div>
             <div class="skill-module" data-color="cyan">
                 <div class="module-header">
-                    <i class="fas fa-server"></i>
-                    <h3>Backend</h3>
+                    <i class="fas fa-toolbox"></i>
+                    <h3>Security Tools</h3>
                 </div>
+
                 <div class="module-tags">
-                    <span>Node.js</span><span>Express.js</span><span>Nest.js</span><span>PostgreSQL</span><span>Prisma</span><span>MongoDB</span><span>Mongoose</span><span>MySQL</span><span>TypeORM</span><span>Redis</span><span>Socket.IO</span>
+                    <span>Burp Suite</span>
+                    <span>Nmap</span>
+                    <span>Nuclei</span>
+                    <span>FFUF</span>
+                    <span>SQLMap</span>
+                    <span>Wireshark</span>
+                    <span>Metasploit</span>
+                    <span>Subfinder</span>
+                    <span>Amass</span>
+                    <span>httpx</span>
+                    <span>Katana</span>
+                    <span>Dalfox</span>
+                    <span>GF</span>
+                    <span>ParamSpider</span>
+                    <span>Feroxbuster</span>
                 </div>
             </div>
             <div class="skill-module" data-color="green">
                 <div class="module-header">
-                    <i class="fas fa-palette"></i>
-                    <h3>Frontend</h3>
+                    <i class="fas fa-code"></i>
+                    <h3>Programming</h3>
                 </div>
+
                 <div class="module-tags">
-                    <span>React.js</span><span>Next.js</span><span>JavaScript (ES6+)</span><span>HTML &amp;
-                        CSS</span><span>Tailwind CSS</span><span>TypeScript</span>
-                </div>
-            </div>
-            <div class="skill-module" data-color="magenta">
-                <div class="module-header">
-                    <i class="fas fa-shield-halved"></i>
-                    <h3>Cyber Security</h3>
-                </div>
-                <div class="module-tags">
-                    <span>CTF (Web, OSINT, Forensics, Network)</span><span>Web &amp; Network Penetration
-                        Testing</span><span>Bug Bounty Hunting</span><span>OWASP Top 10</span><span>Burp
-                        Suite</span><span>Wireshark</span><span>Metasploit Basics</span>
+                    <span>Python</span>
+                    <span>JavaScript</span>
+                    <span>TypeScript</span>
+                    <span>Go</span>
+                    <span>Bash</span>
                 </div>
             </div>
             <div class="skill-module" data-color="yellow">
                 <div class="module-header">
-                    <i class="fas fa-cloud"></i>
-                    <h3>Cloud &amp; DevOps</h3>
+                    <i class="fas fa-server"></i>
+                    <h3>Backend</h3>
                 </div>
+
                 <div class="module-tags">
-                    <span>Docker</span><span>Cloudinary</span><span>CI/CD Pipelines</span><span>Linux Advanced
-                        Commands</span><span>Postman</span><span>Git &amp; GitHub</span>
+                    <span>Node.js</span>
+                    <span>NestJS</span>
+                    <span>Express.js</span>
+                    <span>REST APIs</span>
+                    <span>JWT</span>
+                    <span>OAuth2</span>
+                    <span>PostgreSQL</span>
+                    <span>MongoDB</span>
+                    <span>Redis</span>
+                    <span>Socket.IO</span>
+                </div>
+            </div>
+            <div class="skill-module" data-color="magenta">
+                <div class="module-header">
+                    <i class="fas fa-laptop-code"></i>
+                    <h3>Frontend</h3>
+                </div>
+
+                <div class="module-tags">
+                    <span>React.js</span>
+                    <span>Next.js</span>
+                    <span>Tailwind CSS</span>
+                    <span>HTML5</span>
+                    <span>CSS3</span>
                 </div>
             </div>
             <div class="skill-module" data-color="purple">
                 <div class="module-header">
-                    <i class="fas fa-users"></i>
-                    <h3>Soft Skills</h3>
+                    <i class="fas fa-cloud"></i>
+                    <h3>DevOps & Infrastructure</h3>
                 </div>
+
                 <div class="module-tags">
-                    <span>ECPC Participant</span><span>Team Collaboration/Leading</span><span>Agile/Scrum
-                        Basics</span><span>Time Management</span>
+                    <span>Docker</span>
+                    <span>Linux</span>
+                    <span>Git</span>
+                    <span>GitHub</span>
+                    <span>CI/CD</span>
+                    <span>Postman</span>
+                    <span>Cloudinary</span>
                 </div>
             </div>
+
         </div>
     </section>
 
@@ -324,74 +557,160 @@
                 <p class="edu-date">Aug 2022 — Aug 2026</p>
             </div>
             <div class="edu-certs">
-                <h4 class="edu-subtitle"><i class="fas fa-certificate"></i> Certifications &amp; Achievements</h4>
+                <h4 class="edu-subtitle">
+                    <i class="fas fa-certificate"></i> CERTIFICATIONS & ACHIEVEMENTS
+                </h4>
                 <ul class="cert-list">
-                    <li><span class="cert-bullet">◆</span> ECPC Qualifications — AAST Alexandria</li>
-                    <li><span class="cert-bullet">◆</span> 3rd Place — Competitive Programming Local Contest (ICPC
-                        Obour)</li>
-                    <li><span class="cert-bullet">◆</span> Mahara Tech — Backend Developer Certificate</li>
-                    <li><span class="cert-bullet">◆</span> Mahara Tech — Cybersecurity for Beginners Certificate</li>
-                    <li><span class="cert-bullet">◆</span> eJPTv1 Prep — Netriders Academy</li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        30+ Valid Bug Bounty Reports
+                    </li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        Listed in Multiple Bug Bounty Hall of Fame Programs
+                    </li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        Creator of FarmCTF Platform
+                    </li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        eJPTv1 Preparation — Netriders Academy
+                    </li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        MaharaTech — Cybersecurity Fundamentals
+                    </li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        ECPC Qualifications — AAST Alexandria
+                    </li>
+
                 </ul>
             </div>
             <div class="edu-volunteer">
-                <h4 class="edu-subtitle"><i class="fas fa-hand-holding-heart"></i> Volunteering</h4>
+                <h4 class="edu-subtitle">
+                    <i class="fas fa-hand-holding-heart"></i> Leadership & Community
+                </h4>
                 <ul class="cert-list">
-                    <li><span class="cert-bullet">◆</span> Leader of Cybersecurity track (IEEE Obour)</li>
-                    <li><span class="cert-bullet">◆</span> Mentor (ICPC Obour)</li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        Cybersecurity Track Leader — IEEE Obour SB
+                    </li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        ICPC Mentor — Obour Community
+                    </li>
+
+                    <li>
+                        <span class="cert-bullet">◆</span>
+                        CTF Challenge Author & FarmCTF Creator
+                    </li>
+
                 </ul>
             </div>
             <div class="edu-langs">
-                <h4 class="edu-subtitle"><i class="fas fa-language"></i> Languages</h4>
+                <h4 class="edu-subtitle">
+                    <i class="fas fa-language"></i> Languages
+                </h4>
                 <div class="lang-tags">
-                    <span class="lang-tag">Arabic <small>(Native)</small></span>
-                    <span class="lang-tag">English <small>(B2)</small></span>
+                    <span class="lang-tag">Arabic — <small>Native</small></span>
+                    <span class="lang-tag">English — <small>Professional Working Proficiency (B2)</small></span>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- ===== COURSES ===== -->
+    <!-- ===== TRAINING & LEARNING ===== -->
     <section id="courses" class="section">
+
         <div class="section-header">
             <span class="section-num">06</span>
             <div class="section-line"></div>
-            <h2 class="section-title">COURSES</h2>
+            <h2 class="section-title">TRAINING & LEARNING</h2>
         </div>
+
         <div class="courses-terminal">
+
             <div class="terminal-topbar">
                 <span class="dot red"></span>
                 <span class="dot yellow"></span>
                 <span class="dot green"></span>
-                <span class="terminal-filename">training_log.sh</span>
+                <span class="terminal-filename">security_training.log</span>
             </div>
+
             <div class="terminal-body courses-body">
-                <p class="course-entry"><span class="course-year">[2023]</span> <span class="course-arrow">→</span>
-                    <span class="course-name">Backend &amp; Security Fundamentals</span> <span class="course-source">—
-                        MaharaTech</span>
+
+                <p class="course-entry">
+                    <span class="course-year">[2024 - Present]</span>
+                    <span class="course-arrow">→</span>
+                    <span class="course-name">Web Security Academy</span>
+                    <span class="course-source">— PortSwigger</span>
                 </p>
-                <p class="course-detail">Learned backend fundamentals, REST APIs, DB integration.</p>
-                <p class="course-entry"><span class="course-year">[2023]</span> <span class="course-arrow">→</span>
-                    <span class="course-name">Advanced Backend &amp; Security</span> <span class="course-source">—
-                        Self-Study</span>
+
+                <p class="course-detail">
+                    Advanced Web Application Security, OWASP Top 10, XSS, SQL Injection, SSRF,
+                    Authentication, Access Control, SSTI, XXE, CSRF and Business Logic vulnerabilities.
                 </p>
-                <p class="course-detail">Advanced auth patterns, API security, scalable architecture.</p>
-                <p class="course-entry"><span class="course-year">[2024]</span> <span class="course-arrow">→</span>
-                    <span class="course-name">Web App Security &amp; OWASP Top 10</span> <span class="course-source">—
-                        PortSwigger</span>
+
+                <p class="course-entry">
+                    <span class="course-year">[2024]</span>
+                    <span class="course-arrow">→</span>
+                    <span class="course-name">eJPT Preparation</span>
+                    <span class="course-source">— Netriders Academy</span>
                 </p>
-                <p class="course-detail">XSS, SQL Injection, SSRF labs.</p>
-                <p class="course-entry"><span class="course-year">[2023]</span> <span class="course-arrow">→</span>
-                    <span class="course-name">eJPTv1 Prep</span> <span class="course-source">— Netriders</span>
+
+                <p class="course-detail">
+                    Network Penetration Testing, Enumeration, Privilege Escalation,
+                    Pivoting, Active Directory Basics and Vulnerability Assessment.
                 </p>
-                <p class="course-detail">Reconnaissance, automation, vulnerability discovery.</p>
-                <p class="course-entry"><span class="course-year">[2022-2024]</span> <span class="course-arrow">→</span>
-                    <span class="course-name">Data Structures &amp; Algorithms</span> <span class="course-source">—
-                        Codeforces/ECPC</span>
+
+                <p class="course-entry">
+                    <span class="course-year">[2023]</span>
+                    <span class="course-arrow">→</span>
+                    <span class="course-name">Cybersecurity Fundamentals</span>
+                    <span class="course-source">— MaharaTech</span>
                 </p>
-                <p class="course-detail">Problem solving, DP, graphs.</p>
+
+                <p class="course-detail">
+                    Networking, Linux, Web Security, Cryptography and Security Fundamentals.
+                </p>
+
+                <p class="course-entry">
+                    <span class="course-year">[2023]</span>
+                    <span class="course-arrow">→</span>
+                    <span class="course-name">Backend Development</span>
+                    <span class="course-source">— MaharaTech</span>
+                </p>
+
+                <p class="course-detail">
+                    REST APIs, Authentication, Authorization, Secure API Design,
+                    Database Integration and Backend Architecture.
+                </p>
+
+                <p class="course-entry">
+                    <span class="course-year">[2022 - Present]</span>
+                    <span class="course-arrow">→</span>
+                    <span class="course-name">Competitive Programming</span>
+                    <span class="course-source">— ECPC / Codeforces</span>
+                </p>
+
+                <p class="course-detail">
+                    Algorithms, Data Structures, Graph Theory and advanced problem solving.
+                </p>
+
             </div>
+
         </div>
+
     </section>
 
     <!-- ===== CONTACT ===== -->
@@ -402,17 +721,32 @@
             <h2 class="section-title">CONTACT</h2>
         </div>
         <div class="contact-container">
-            <p class="contact-tagline">Let’s build secure and scalable systems.</p>
+            <p class="contact-tagline">Open to Junior Penetration Tester, Security Researcher & Application Security
+                roles.</p>
             <a href="mailto:swilam.per@gmail.com" class="contact-link"><i
                     class="fas fa-envelope"></i>swilam.per@gmail.com</a>
             <a href="tel:+201030141149" class="contact-link"><i class="fas fa-phone"></i>+201030141149</a>
             <div class="contact-socials">
                 <a href="https://www.linkedin.com/in/swilam0" target="_blank" rel="noopener" class="social-link"
-                    data-tooltip="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                    data-tooltip="LinkedIn">
+                    <img src="public/icons/linkedin.png" alt="LinkedIn" class="social-icon">
+                </a>
+
                 <a href="https://github.com/swilam0" target="_blank" rel="noopener" class="social-link"
-                    data-tooltip="GitHub"><i class="fab fa-github"></i></a>
-                <a href="https://www.facebook.com/swilam275" target="_blank" rel="noopener" class="social-link"
-                    data-tooltip="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    data-tooltip="GitHub">
+                    <img src="public/icons/github.png" alt="GitHub" class="social-icon">
+                </a>
+
+                <a href="https://hackerone.com/swilam0" target="_blank" rel="noopener" class="social-link"
+                    data-tooltip="HackerOne">
+                    <img src="public/icons/hackerone.png" alt="HackerOne" class="social-icon">
+                </a>
+
+                <a href="https://bugcrowd.com/swilam0" target="_blank" rel="noopener" class="social-link"
+                    data-tooltip="Bugcrowd">
+                    <img src="public/icons/bugcrowd.png" alt="Bugcrowd" class="social-icon">
+                </a>
+
                 <a href="https://api.whatsapp.com/send?phone=201030141149" target="_blank" rel="noopener"
                     class="social-link" data-tooltip="WhatsApp"><i class="fab fa-whatsapp"></i></a>
             </div>
@@ -421,8 +755,10 @@
 
     <!-- ===== FOOTER ===== -->
     <footer id="footer">
-        <p>&copy; 2025 Mohamed Hamad Swilam — Built with <i class="fas fa-terminal"></i> and <i
-                class="fas fa-shield-halved"></i></p>
+        <p>
+            &copy; 2025 Mohamed Hamad Swilam — Built with
+            <i class="fas fa-terminal"></i> and <i class="fas fa-shield-halved"></i>
+        </p>
     </footer>
 
     <!-- ===== SCRIPTS ===== -->
