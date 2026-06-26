@@ -247,14 +247,11 @@ currently:       Searching for IDORs, SSRFs & broken auth in the wild
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swilam0&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&include_all_commits=true&count_private=true" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swilam0&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C" width="40%"/>
 
@@ -264,32 +261,7 @@ currently:       Searching for IDORs, SSRFs & broken auth in the wild
 
 </div>
 
-### 🏅 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=swilam0&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
-
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ===================== SNAKE ANIMATION ===================== -->
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/swilam0/swilam0/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚙️ Generated automatically via GitHub Actions — see <code>.github/workflows/snake.yml</code> setup below</sub>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
