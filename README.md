@@ -254,12 +254,12 @@ currently:       Searching for IDORs, SSRFs & broken auth in the wild
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swilam0&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swilam0&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C" width="40%"/>
 
-<img src="https://streak-stats.demolab.com/?user=yourusername&theme=dark&background=0D1117&border=00FF9C&ring=00FF9C&fire=FF2D55&currStreakLabel=00FF9C" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=swilam0&theme=dark&background=0D1117&border=00FF9C&ring=00FF9C&fire=FF2D55&currStreakLabel=00FF9C" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&color=00FF9C&line=FF2D55&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swilam0&theme=react-dark&bg_color=0d1117&color=00FF9C&line=FF2D55&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
