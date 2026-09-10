@@ -7,9 +7,9 @@
   },
   {
     "name": "SwiHack",
-    "url": "https://github.com/swilam0/Swihack",
-    "description": "Distributed vulnerability scanning framework for automated web application security assessment and large-scale reconnaissance, featuring an AI-assisted analysis engine.",
-    "tech": ["Go", "Python", "Redis", "Docker"]
+    "url": "https://github.com/swilam0/swihack",
+    "description": "Human-in-the-loop Agentic AI CLI for penetration testers and bug hunters. Swihack helps security engineers move through recon, enumeration, validation, evidence collection, and reporting while keeping the analyst in control.",
+    "tech": ["TypeScript", "CLI", "AI-Agent"]
   },
   {
     "name": "FarmCTF",
